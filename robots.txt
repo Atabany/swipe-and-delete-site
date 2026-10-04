@@ -1,57 +1,57 @@
 User-agent: *
 Allow: /
-Disallow: /swipe-and-delete-site/_ops/
+Disallow: /_ops/
 
 User-agent: OAI-SearchBot
 Allow: /
-Disallow: /swipe-and-delete-site/_ops/
+Disallow: /_ops/
 
 User-agent: ChatGPT-User
 Allow: /
-Disallow: /swipe-and-delete-site/_ops/
+Disallow: /_ops/
 
 User-agent: GPTBot
 Allow: /
-Disallow: /swipe-and-delete-site/_ops/
+Disallow: /_ops/
 
 User-agent: ClaudeBot
 Allow: /
-Disallow: /swipe-and-delete-site/_ops/
+Disallow: /_ops/
 
 User-agent: Claude-SearchBot
 Allow: /
-Disallow: /swipe-and-delete-site/_ops/
+Disallow: /_ops/
 
 User-agent: Claude-User
 Allow: /
-Disallow: /swipe-and-delete-site/_ops/
+Disallow: /_ops/
 
 User-agent: PerplexityBot
 Allow: /
-Disallow: /swipe-and-delete-site/_ops/
+Disallow: /_ops/
 
 User-agent: Perplexity-User
 Allow: /
-Disallow: /swipe-and-delete-site/_ops/
+Disallow: /_ops/
 
 User-agent: Googlebot
 Allow: /
-Disallow: /swipe-and-delete-site/_ops/
+Disallow: /_ops/
 
 User-agent: Google-Extended
 Allow: /
-Disallow: /swipe-and-delete-site/_ops/
+Disallow: /_ops/
 
 User-agent: Applebot
 Allow: /
-Disallow: /swipe-and-delete-site/_ops/
+Disallow: /_ops/
 
 User-agent: Applebot-Extended
 Allow: /
-Disallow: /swipe-and-delete-site/_ops/
+Disallow: /_ops/
 
 User-agent: Bingbot
 Allow: /
-Disallow: /swipe-and-delete-site/_ops/
+Disallow: /_ops/
 
-Sitemap: https://atabany.github.io/swipe-and-delete-site/sitemap.xml
+Sitemap: https://swipeanddelete.app/sitemap.xml
