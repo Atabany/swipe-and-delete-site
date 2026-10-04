@@ -96,14 +96,17 @@ class Text(HTMLParser):
  def handle_starttag(self,t,a):
   if t=='main':self.inMain=True
   if t in ['script','style']:self.ignore+=1
+  if self.inMain and t in ['h1','h2','h3','h4','p','li','div','section','summary','figcaption','tr','caption','br','blockquote']:self.parts.append('\n')
+  if self.inMain and t in ['td','th']:self.parts.append(' | ')
  def handle_endtag(self,t):
+  if self.inMain and t in ['h1','h2','h3','h4','p','li','div','section','summary','figcaption','tr','caption','blockquote']:self.parts.append('\n')
   if t=='main':self.inMain=False
   if t in ['script','style']:self.ignore-=1
  def handle_data(self,d):
   if self.inMain and not self.ignore:self.parts.append(d)
 for file,p in pages.items():
  if p['noindex']:continue
- parser=Text();parser.feed((ROOT/file).read_text());full+='\n### '+p['title']+'\n'+p['url']+'\n'+'\n'.join(parser.parts)+'\n'
+ parser=Text();parser.feed((ROOT/file).read_text());main_text='\n'.join(line.strip() for line in re.sub(r'[ \t]+',' ',''.join(parser.parts)).splitlines() if line.strip());full+='\n### '+p['title']+'\n'+p['url']+'\n'+main_text+'\n'
 (ROOT/'llms-full.txt').write_text(full)
 (ROOT/(CONFIG['indexNowKey']+'.txt')).write_text(CONFIG['indexNowKey']);(ROOT/'.nojekyll').touch()
 (ROOT/'_ops/pages.json').write_text(json.dumps(pages,indent=2)+'\n')
