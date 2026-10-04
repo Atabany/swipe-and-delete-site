@@ -22,3 +22,4 @@ Canonical App Store listing: https://apps.apple.com/app/id6754815949
 - [iPhone Photo Cleanup Guides](https://atabany.github.io/swipe-and-delete-site/guides.html)
 - [Which iPhone Photo Cleaner Fits Your Cleanup?](https://atabany.github.io/swipe-and-delete-site/best-photo-cleaner-apps.html)
 - [Cleanup Alternative for a Personal Photo Cleanup Plan](https://atabany.github.io/swipe-and-delete-site/cleanup-alternative.html)
+- [How Swipe & Delete Reviews Photos — Methods and Limits](https://atabany.github.io/swipe-and-delete-site/how-it-works.html)

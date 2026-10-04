@@ -22,18 +22,12 @@ Canonical App Store listing: https://apps.apple.com/app/id6754815949
 - [iPhone Photo Cleanup Guides](https://atabany.github.io/swipe-and-delete-site/guides.html)
 - [Which iPhone Photo Cleaner Fits Your Cleanup?](https://atabany.github.io/swipe-and-delete-site/best-photo-cleaner-apps.html)
 - [Cleanup Alternative for a Personal Photo Cleanup Plan](https://atabany.github.io/swipe-and-delete-site/cleanup-alternative.html)
+- [How Swipe & Delete Reviews Photos — Methods and Limits](https://atabany.github.io/swipe-and-delete-site/how-it-works.html)
 
 ## Reference material
 
 ### Photo Cleaner: Swipe & Delete — Your Personal Cleanup Plan
 https://atabany.github.io/swipe-and-delete-site/
-Photo Cleaner: Swipe & Delete — Your Personal Cleanup Plan
-Skip to content
-Swipe & Delete
-PHOTO CLEANER
-Guides
-Cleanup planner
-Support
 A little less clutter. A lot more room.
 Keep the memories.
 Lose the extras.
@@ -102,26 +96,19 @@ Read the privacy information →
 Photo Cleaner: Swipe & Delete is an iPhone photo-cleanup app by Mohamed Elatabany for iOS 17 or later. It offers a personal cleanup plan, duplicate and similar-photo review, screenshot and large-video review, and swipe-to-keep or mark-for-removal controls. Photo analysis happens on your device; photos are not uploaded for scanning. Start with a one-time free allowance; Pro unlocks unlimited swipes and advanced cleanup tools, with subscription and one-time purchase options depending on availability. Rated 5 stars on the US App Store, checked October 4, 2026.
 Make room for your next memory.
 Photo Cleaner: Swipe & Delete · by Mohamed Elatabany
-About the maker
-Photo cleanup guides
-Compare apps
-Support
-Privacy
-Terms
-© 2026 Mohamed Elatabany · Photo Cleaner: Swipe & Delete
-Your photos. Your decisions.
-
-
+Questions, answered.
+What is Photo Cleaner: Swipe & Delete?
+It is an iPhone photo-cleanup app by Mohamed Elatabany. It offers a personal cleanup plan, duplicate and similar-photo review, screenshot and large-video review, and swipe controls. You review marked items before confirming deletion.
+Does it upload my photos for analysis?
+Photo analysis runs on your iPhone; photos are not uploaded for scanning or cleanup decisions. Apple and RevenueCat process purchase services. Apple Photos may download iCloud media when requested.
+Is Photo Cleaner: Swipe & Delete free?
+It starts with a one-time free allowance. Optional Pro purchases unlock unlimited swipes and advanced cleanup tools. Current purchase options and terms appear in the app.
+What happens when I delete an iCloud photo?
+When iCloud Photos is enabled, deleting an item also removes it from other devices using that synced library. Check your selections and keep a separate backup of irreplaceable media.
+How photo review works and its limits →
 
 ### About Photo Cleaner: Swipe & Delete
 https://atabany.github.io/swipe-and-delete-site/about.html
-About Photo Cleaner: Swipe & Delete
-Skip to content
-Swipe & Delete
-PHOTO CLEANER
-Guides
-Cleanup planner
-Support
 Home
 About Photo Cleaner: Swipe & Delete
 Updated October 2026
@@ -140,26 +127,9 @@ Menu locations change between iOS versions. Check the date on each guide, and
 send a correction
  if something needs updating.
 Photo Cleaner: Swipe & Delete is an iPhone photo-cleanup app by Mohamed Elatabany for iOS 17 or later. It offers a personal cleanup plan, duplicate and similar-photo review, screenshot and large-video review, and swipe-to-keep or mark-for-removal controls. Photo analysis happens on your device; photos are not uploaded for scanning. Start with a one-time free allowance; Pro unlocks unlimited swipes and advanced cleanup tools, with subscription and one-time purchase options depending on availability. Rated 5 stars on the US App Store, checked October 4, 2026.
-About the maker
-Photo cleanup guides
-Compare apps
-Support
-Privacy
-Terms
-© 2026 Mohamed Elatabany · Photo Cleaner: Swipe & Delete
-Your photos. Your decisions.
-
-
 
 ### Support for Photo Cleaner: Swipe & Delete
 https://atabany.github.io/swipe-and-delete-site/support.html
-Support for Photo Cleaner: Swipe & Delete
-Skip to content
-Swipe & Delete
-PHOTO CLEANER
-Guides
-Cleanup planner
-Support
 Home
 Support for Photo Cleaner: Swipe & Delete
 Updated October 2026
@@ -179,26 +149,9 @@ Manage or cancel a subscription
 Request a refund from Apple
 Website corrections
 Include the page URL and the detail that appears incorrect. The maker reviews corrections; no response time is guaranteed.
-About the maker
-Photo cleanup guides
-Compare apps
-Support
-Privacy
-Terms
-© 2026 Mohamed Elatabany · Photo Cleaner: Swipe & Delete
-Your photos. Your decisions.
-
-
 
 ### Privacy information
 https://atabany.github.io/swipe-and-delete-site/privacy.html
-Privacy information
-Skip to content
-Swipe & Delete
-PHOTO CLEANER
-Guides
-Cleanup planner
-Support
 Home
 Privacy information
 Updated October 2026
@@ -220,26 +173,9 @@ privacy policy currently linked from the App Store
  remains available. If you email support, your message and contact details are used to respond. Contact 
 atabany.apps@gmail.com
  with privacy questions or requests to access or delete information held by the developer. Local review data can be reset in the app; purchase-allowance records may persist in Keychain. Apple and RevenueCat maintain their own records under their policies.
-About the maker
-Photo cleanup guides
-Compare apps
-Support
-Privacy
-Terms
-© 2026 Mohamed Elatabany · Photo Cleaner: Swipe & Delete
-Your photos. Your decisions.
-
-
 
 ### Terms of use
 https://atabany.github.io/swipe-and-delete-site/terms.html
-Terms of use
-Skip to content
-Swipe & Delete
-PHOTO CLEANER
-Guides
-Cleanup planner
-Support
 Home
 Terms of use
 Updated October 2026
@@ -254,26 +190,9 @@ Website estimates
 The cleanup planner uses the counts and average file sizes you enter. It does not inspect your library, guarantee recoverable storage, or delete anything. File size and local device space can differ, particularly with optimized iCloud Photos.
 Contact support
  for questions.
-About the maker
-Photo cleanup guides
-Compare apps
-Support
-Privacy
-Terms
-© 2026 Mohamed Elatabany · Photo Cleaner: Swipe & Delete
-Your photos. Your decisions.
-
-
 
 ### Photo Cleanup Planner — Estimate Storage to Review
 https://atabany.github.io/swipe-and-delete-site/cleanup-planner.html
-Photo Cleanup Planner — Estimate Storage to Review
-Skip to content
-Swipe & Delete
-PHOTO CLEANER
-Guides
-Cleanup planner
-Support
 Home
 Photo Cleanup Planner — Estimate Storage to Review
 Updated October 2026
@@ -323,26 +242,9 @@ Check iCloud syncing and your separate backup before confirming deletion.
 Check actual iPhone storage after Photos has processed the change.
 The planner never scans or deletes your photos. For focused review on your iPhone, Photo Cleaner: Swipe & Delete offers a personal cleanup plan, similar-photo comparisons, and an in-app Trash Bin for review before confirmed deletion.
 Photo Cleaner: Swipe & Delete is an iPhone photo-cleanup app by Mohamed Elatabany for iOS 17 or later. It offers a personal cleanup plan, duplicate and similar-photo review, screenshot and large-video review, and swipe-to-keep or mark-for-removal controls. Photo analysis happens on your device; photos are not uploaded for scanning. Start with a one-time free allowance; Pro unlocks unlimited swipes and advanced cleanup tools, with subscription and one-time purchase options depending on availability. Rated 5 stars on the US App Store, checked October 4, 2026.
-About the maker
-Photo cleanup guides
-Compare apps
-Support
-Privacy
-Terms
-© 2026 Mohamed Elatabany · Photo Cleaner: Swipe & Delete
-Your photos. Your decisions.
-
-
 
 ### How to Delete Duplicate Photos on iPhone
 https://atabany.github.io/swipe-and-delete-site/delete-duplicate-photos-iphone.html
-How to Delete Duplicate Photos on iPhone
-Skip to content
-Swipe & Delete
-PHOTO CLEANER
-Guides
-Cleanup planner
-Support
 Home
  / 
 Guides
@@ -400,26 +302,9 @@ Start free. Pro purchases are optional. Review the current options in the app.
 More guides →
  · 
 Build a cleanup plan →
-About the maker
-Photo cleanup guides
-Compare apps
-Support
-Privacy
-Terms
-© 2026 Mohamed Elatabany · Photo Cleaner: Swipe & Delete
-Your photos. Your decisions.
-
-
 
 ### Similar vs Duplicate Photos: What Should You Keep?
 https://atabany.github.io/swipe-and-delete-site/similar-vs-duplicate-photos.html
-Similar vs Duplicate Photos: What Should You Keep?
-Skip to content
-Swipe & Delete
-PHOTO CLEANER
-Guides
-Cleanup planner
-Support
 Home
  / 
 Guides
@@ -474,26 +359,9 @@ Start free. Pro purchases are optional. Review the current options in the app.
 More guides →
  · 
 Build a cleanup plan →
-About the maker
-Photo cleanup guides
-Compare apps
-Support
-Privacy
-Terms
-© 2026 Mohamed Elatabany · Photo Cleaner: Swipe & Delete
-Your photos. Your decisions.
-
-
 
 ### How to Delete Screenshots on iPhone
 https://atabany.github.io/swipe-and-delete-site/delete-screenshots-iphone.html
-How to Delete Screenshots on iPhone
-Skip to content
-Swipe & Delete
-PHOTO CLEANER
-Guides
-Cleanup planner
-Support
 Home
  / 
 Guides
@@ -552,26 +420,9 @@ Start free. Pro purchases are optional. Review the current options in the app.
 More guides →
  · 
 Build a cleanup plan →
-About the maker
-Photo cleanup guides
-Compare apps
-Support
-Privacy
-Terms
-© 2026 Mohamed Elatabany · Photo Cleaner: Swipe & Delete
-Your photos. Your decisions.
-
-
 
 ### How to Find Large Videos on iPhone
 https://atabany.github.io/swipe-and-delete-site/find-large-videos-iphone.html
-How to Find Large Videos on iPhone
-Skip to content
-Swipe & Delete
-PHOTO CLEANER
-Guides
-Cleanup planner
-Support
 Home
  / 
 Guides
@@ -628,26 +479,9 @@ Start free. Pro purchases are optional. Review the current options in the app.
 More guides →
  · 
 Build a cleanup plan →
-About the maker
-Photo cleanup guides
-Compare apps
-Support
-Privacy
-Terms
-© 2026 Mohamed Elatabany · Photo Cleaner: Swipe & Delete
-Your photos. Your decisions.
-
-
 
 ### Delete Photos Safely with iCloud Photos
 https://atabany.github.io/swipe-and-delete-site/icloud-photo-deletion.html
-Delete Photos Safely with iCloud Photos
-Skip to content
-Swipe & Delete
-PHOTO CLEANER
-Guides
-Cleanup planner
-Support
 Home
  / 
 Guides
@@ -703,26 +537,9 @@ Start free. Pro purchases are optional. Review the current options in the app.
 More guides →
  · 
 Build a cleanup plan →
-About the maker
-Photo cleanup guides
-Compare apps
-Support
-Privacy
-Terms
-© 2026 Mohamed Elatabany · Photo Cleaner: Swipe & Delete
-Your photos. Your decisions.
-
-
 
 ### A Simple Swipe Cleanup Plan for Your Camera Roll
 https://atabany.github.io/swipe-and-delete-site/swipe-photo-cleanup.html
-A Simple Swipe Cleanup Plan for Your Camera Roll
-Skip to content
-Swipe & Delete
-PHOTO CLEANER
-Guides
-Cleanup planner
-Support
 Home
  / 
 Guides
@@ -780,26 +597,9 @@ Start free. Pro purchases are optional. Review the current options in the app.
 More guides →
  · 
 Build a cleanup plan →
-About the maker
-Photo cleanup guides
-Compare apps
-Support
-Privacy
-Terms
-© 2026 Mohamed Elatabany · Photo Cleaner: Swipe & Delete
-Your photos. Your decisions.
-
-
 
 ### iPhone Photo Cleanup Guides
 https://atabany.github.io/swipe-and-delete-site/guides.html
-iPhone Photo Cleanup Guides
-Skip to content
-Swipe & Delete
-PHOTO CLEANER
-Guides
-Cleanup planner
-Support
 Home
 iPhone Photo Cleanup Guides
 Updated October 2026
@@ -826,26 +626,9 @@ Compare photo cleanup apps →
 An honest guide by the maker of Swipe & Delete.
 Looking for a Cleanup alternative? →
 Compare your needs and the apps’ current listings.
-About the maker
-Photo cleanup guides
-Compare apps
-Support
-Privacy
-Terms
-© 2026 Mohamed Elatabany · Photo Cleaner: Swipe & Delete
-Your photos. Your decisions.
-
-
 
 ### Which iPhone Photo Cleaner Fits Your Cleanup?
 https://atabany.github.io/swipe-and-delete-site/best-photo-cleaner-apps.html
-Which iPhone Photo Cleaner Fits Your Cleanup?
-Skip to content
-Swipe & Delete
-PHOTO CLEANER
-Guides
-Cleanup planner
-Support
 Home
  / 
 Guides
@@ -910,26 +693,9 @@ Start free. Pro purchases are optional. Review the current options in the app.
 More guides →
  · 
 Build a cleanup plan →
-About the maker
-Photo cleanup guides
-Compare apps
-Support
-Privacy
-Terms
-© 2026 Mohamed Elatabany · Photo Cleaner: Swipe & Delete
-Your photos. Your decisions.
-
-
 
 ### Cleanup Alternative for a Personal Photo Cleanup Plan
 https://atabany.github.io/swipe-and-delete-site/cleanup-alternative.html
-Cleanup Alternative for a Personal Photo Cleanup Plan
-Skip to content
-Swipe & Delete
-PHOTO CLEANER
-Guides
-Cleanup planner
-Support
 Home
  / 
 Guides
@@ -975,13 +741,78 @@ Start free. Pro purchases are optional. Review the current options in the app.
 More guides →
  · 
 Build a cleanup plan →
-About the maker
-Photo cleanup guides
-Compare apps
-Support
-Privacy
-Terms
-© 2026 Mohamed Elatabany · Photo Cleaner: Swipe & Delete
-Your photos. Your decisions.
 
-
+### How Swipe & Delete Reviews Photos — Methods and Limits
+https://atabany.github.io/swipe-and-delete-site/how-it-works.html
+Home
+ / 
+Guides
+How photo review works—and what it cannot decide for you.
+Photo Cleaner: Swipe & Delete finds photos worth reviewing and helps you make the final choice. Its photo analysis runs on your iPhone; a similarity result is a review suggestion, not proof that two memories are interchangeable.
+By 
+Mohamed Elatabany
+ · Updated October 2026 · 
+Suggest a correction
+On this page
+The review workflow
+Similar photos are candidates, not identical files
+Photo permission determines the library available for review
+iCloud changes availability and storage estimates
+Your final confirmation and recovery window
+Photo analysis and purchase services
+How this explanation is checked
+The review workflow
+Choose cleanup priorities and a manageable category, such as similar shots, old screenshots, or large videos.
+Review the candidates. Swipe right to keep an item and left to mark it for removal.
+Undo a swipe or restore marked items from the in-app Trash Bin if you change your mind.
+Review your selections and confirm deletion when you are ready.
+A storage estimate helps you choose a starting point. It does not mean those bytes are already free, and it does not obligate you to remove anything. The 
+website planner
+ works separately: it calculates from the counts and average sizes you enter and never scans your library.
+Similar photos are candidates, not identical files
+The app compares visual representations of authorized photos on the device to identify review candidates. Its detection code uses compact signatures from thumbnails and visual feature comparisons. This helps surface repeated compositions without sending your library to a remote scanning service.
+A visual comparison has limits. A crop, edit, change in lighting, screenshot, or unusual composition can change a result. Two burst shots can look nearly identical while capturing different expressions. A matching visual signature is not a byte-for-byte comparison of the original files, and a suggested group is not an instruction to delete every item except one.
+Inspect faces, text, sharpness, framing, and context before removing a photo. No measured accuracy rate or universal detection guarantee is claimed here. Learn the difference in our 
+similar versus duplicate photos guide
+.
+Photo permission determines the library available for review
+The app can analyze only the photos it is authorized to access. Limited access restricts review to the items you have selected for that permission. Photos that are not accessible cannot reliably appear in a scan, even if you can see them elsewhere in Apple Photos.
+You control the permission in iPhone Settings. Adjust access if you want to review additional items, and open a small category first to check the result. If an image representation cannot be obtained, a complete comparison may not be possible. An empty result therefore does not prove that your entire library has no similar photos.
+iCloud changes availability and storage estimates
+With Optimize iPhone Storage enabled, a full-resolution original may be stored in iCloud while your phone holds a smaller local representation. Photo comparison depends on the image data available to the app. A file size displayed for an original is not a promise that deleting it will reclaim the same number of bytes on this phone.
+Apple Photos can download iCloud media when you request it. That is separate from uploading your photos to our servers for analysis. The website planner does not know which originals are locally downloaded, so it estimates file bytes rather than guaranteed device space.
+Apple explains iCloud Photos and optimized storage
+. Read our 
+iCloud deletion guide
+ before starting a large cleanup.
+Your final confirmation and recovery window
+Marking an item in the app and permanently removing a file are different stages. You can restore marked items in the in-app Trash Bin before confirming deletion. After deletion through Photos, Apple normally keeps the item in Recently Deleted for 30 days unless it is permanently removed sooner.
+When iCloud Photos is enabled, deletion syncs to other devices using that library. iCloud synchronization is not a separate archive that preserves a deleted item indefinitely. Maintain a separate copy of irreplaceable media and check a backup before relying on it.
+Apple’s deletion and recovery instructions
+ explain the recovery window and synced deletion.
+Photo analysis and purchase services
+Photo analysis happens on the phone. Apple and RevenueCat process purchase services and Pro entitlements, which involve purchase information and app-user identifiers. This distinction matters: on-device analysis does not mean no data is processed by any service.
+The app starts with a one-time free allowance. Optional Pro purchases unlock unlimited swipes and advanced cleanup tools. The available options and their current terms appear in the app before purchase. See the 
+privacy information
+ and 
+purchase support
+.
+How this explanation is checked
+Written by Mohamed Elatabany, the app’s developer. This explanation was checked against the photo-detection implementation, permission and deletion flows, and the public App Store description on October 4, 2026. It is a product explanation, not an independent laboratory benchmark.
+There is no claim that Swipe & Delete is more accurate than Apple Photos or another cleaner. Use the 
+task-based app comparison
+ to decide which workflow fits your needs. Send an incorrect or outdated detail through 
+support
+, including the page URL and what should be corrected.
+Questions, answered.
+Does a similar-photo match mean I should delete it?
+No. Similarity identifies review candidates. Check each photo and decide which expressions, angles, text, and memories you want to keep.
+Can the app compare photos outside my Photos permission?
+It can review only authorized, accessible items. Limited access and unavailable image data can limit the candidates shown.
+Does a storage estimate equal space already freed?
+No. It is an estimate before deletion. Original file size can differ from local device space, especially with Optimize iPhone Storage.
+Photo Cleaner: Swipe & Delete is an iPhone photo-cleanup app by Mohamed Elatabany for iOS 17 or later. It offers a personal cleanup plan, duplicate and similar-photo review, screenshot and large-video review, and swipe-to-keep or mark-for-removal controls. Photo analysis happens on your device; photos are not uploaded for scanning. Start with a one-time free allowance; Pro unlocks unlimited swipes and advanced cleanup tools, with subscription and one-time purchase options depending on availability. Rated 5 stars on the US App Store, checked October 4, 2026.
+Start free. Pro purchases are optional. Review the current options in the app.
+More guides →
+ · 
+Build a cleanup plan →

@@ -1,0 +1,60 @@
+[
+  {
+    "slug": "how-it-works",
+    "title": "How Swipe & Delete Reviews Photos — Methods and Limits",
+    "desc": "How Photo Cleaner: Swipe & Delete finds review candidates, handles photo permissions and iCloud, and keeps you in control before deletion.",
+    "heading": "How photo review works—and what it cannot decide for you.",
+    "intro": "Photo Cleaner: Swipe & Delete finds photos worth reviewing and helps you make the final choice. Its photo analysis runs on your iPhone; a similarity result is a review suggestion, not proof that two memories are interchangeable.",
+    "sections": [
+      {
+        "id": "workflow",
+        "title": "The review workflow",
+        "html": "<ol><li>Choose cleanup priorities and a manageable category, such as similar shots, old screenshots, or large videos.</li><li>Review the candidates. Swipe right to keep an item and left to mark it for removal.</li><li>Undo a swipe or restore marked items from the in-app Trash Bin if you change your mind.</li><li>Review your selections and confirm deletion when you are ready.</li></ol><p>A storage estimate helps you choose a starting point. It does not mean those bytes are already free, and it does not obligate you to remove anything. The <a href=\"cleanup-planner.html\">website planner</a> works separately: it calculates from the counts and average sizes you enter and never scans your library.</p>"
+      },
+      {
+        "id": "similarity",
+        "title": "Similar photos are candidates, not identical files",
+        "html": "<p>The app compares visual representations of authorized photos on the device to identify review candidates. Its detection code uses compact signatures from thumbnails and visual feature comparisons. This helps surface repeated compositions without sending your library to a remote scanning service.</p><p>A visual comparison has limits. A crop, edit, change in lighting, screenshot, or unusual composition can change a result. Two burst shots can look nearly identical while capturing different expressions. A matching visual signature is not a byte-for-byte comparison of the original files, and a suggested group is not an instruction to delete every item except one.</p><p>Inspect faces, text, sharpness, framing, and context before removing a photo. No measured accuracy rate or universal detection guarantee is claimed here. Learn the difference in our <a href=\"similar-vs-duplicate-photos.html\">similar versus duplicate photos guide</a>.</p>"
+      },
+      {
+        "id": "permissions",
+        "title": "Photo permission determines the library available for review",
+        "html": "<p>The app can analyze only the photos it is authorized to access. Limited access restricts review to the items you have selected for that permission. Photos that are not accessible cannot reliably appear in a scan, even if you can see them elsewhere in Apple Photos.</p><p>You control the permission in iPhone Settings. Adjust access if you want to review additional items, and open a small category first to check the result. If an image representation cannot be obtained, a complete comparison may not be possible. An empty result therefore does not prove that your entire library has no similar photos.</p>"
+      },
+      {
+        "id": "icloud",
+        "title": "iCloud changes availability and storage estimates",
+        "html": "<p>With Optimize iPhone Storage enabled, a full-resolution original may be stored in iCloud while your phone holds a smaller local representation. Photo comparison depends on the image data available to the app. A file size displayed for an original is not a promise that deleting it will reclaim the same number of bytes on this phone.</p><p>Apple Photos can download iCloud media when you request it. That is separate from uploading your photos to our servers for analysis. The website planner does not know which originals are locally downloaded, so it estimates file bytes rather than guaranteed device space.</p><p><a href=\"https://support.apple.com/en-us/105061\">Apple explains iCloud Photos and optimized storage</a>. Read our <a href=\"icloud-photo-deletion.html\">iCloud deletion guide</a> before starting a large cleanup.</p>"
+      },
+      {
+        "id": "deletion",
+        "title": "Your final confirmation and recovery window",
+        "html": "<p>Marking an item in the app and permanently removing a file are different stages. You can restore marked items in the in-app Trash Bin before confirming deletion. After deletion through Photos, Apple normally keeps the item in Recently Deleted for 30 days unless it is permanently removed sooner.</p><p>When iCloud Photos is enabled, deletion syncs to other devices using that library. iCloud synchronization is not a separate archive that preserves a deleted item indefinitely. Maintain a separate copy of irreplaceable media and check a backup before relying on it.</p><p><a href=\"https://support.apple.com/en-us/104967\">Apple’s deletion and recovery instructions</a> explain the recovery window and synced deletion.</p>"
+      },
+      {
+        "id": "purchases",
+        "title": "Photo analysis and purchase services",
+        "html": "<p>Photo analysis happens on the phone. Apple and RevenueCat process purchase services and Pro entitlements, which involve purchase information and app-user identifiers. This distinction matters: on-device analysis does not mean no data is processed by any service.</p><p>The app starts with a one-time free allowance. Optional Pro purchases unlock unlimited swipes and advanced cleanup tools. The available options and their current terms appear in the app before purchase. See the <a href=\"privacy.html\">privacy information</a> and <a href=\"support.html\">purchase support</a>.</p>"
+      },
+      {
+        "id": "methodology",
+        "title": "How this explanation is checked",
+        "html": "<p>Written by Mohamed Elatabany, the app’s developer. This explanation was checked against the photo-detection implementation, permission and deletion flows, and the public App Store description on October 4, 2026. It is a product explanation, not an independent laboratory benchmark.</p><p>There is no claim that Swipe &amp; Delete is more accurate than Apple Photos or another cleaner. Use the <a href=\"best-photo-cleaner-apps.html\">task-based app comparison</a> to decide which workflow fits your needs. Send an incorrect or outdated detail through <a href=\"support.html\">support</a>, including the page URL and what should be corrected.</p>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Does a similar-photo match mean I should delete it?",
+        "answer": "No. Similarity identifies review candidates. Check each photo and decide which expressions, angles, text, and memories you want to keep."
+      },
+      {
+        "question": "Can the app compare photos outside my Photos permission?",
+        "answer": "It can review only authorized, accessible items. Limited access and unavailable image data can limit the candidates shown."
+      },
+      {
+        "question": "Does a storage estimate equal space already freed?",
+        "answer": "No. It is an estimate before deletion. Original file size can differ from local device space, especially with Optimize iPhone Storage."
+      }
+    ]
+  }
+]
