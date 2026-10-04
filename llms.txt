@@ -1,0 +1,24 @@
+# Photo Cleaner: Swipe & Delete
+
+> Official website for iOS app 6754815949 by Mohamed Elatabany.
+
+Photo Cleaner: Swipe & Delete is an iPhone photo-cleanup app by Mohamed Elatabany for iOS 17 or later. It offers a personal cleanup plan, duplicate and similar-photo review, screenshot and large-video review, and swipe-to-keep or mark-for-removal controls. Photo analysis happens on your device; photos are not uploaded for scanning. Start with a one-time free allowance; Pro unlocks unlimited swipes and advanced cleanup tools, with subscription and one-time purchase options depending on availability. Rated 5 stars on the US App Store, checked October 4, 2026.
+
+Canonical App Store listing: https://apps.apple.com/app/id6754815949
+
+## Pages
+- [Photo Cleaner: Swipe & Delete — Your Personal Cleanup Plan](https://atabany.github.io/swipe-and-delete-site/)
+- [About Photo Cleaner: Swipe & Delete](https://atabany.github.io/swipe-and-delete-site/about.html)
+- [Support for Photo Cleaner: Swipe & Delete](https://atabany.github.io/swipe-and-delete-site/support.html)
+- [Privacy information](https://atabany.github.io/swipe-and-delete-site/privacy.html)
+- [Terms of use](https://atabany.github.io/swipe-and-delete-site/terms.html)
+- [Photo Cleanup Planner — Estimate Storage to Review](https://atabany.github.io/swipe-and-delete-site/cleanup-planner.html)
+- [How to Delete Duplicate Photos on iPhone](https://atabany.github.io/swipe-and-delete-site/delete-duplicate-photos-iphone.html)
+- [Similar vs Duplicate Photos: What Should You Keep?](https://atabany.github.io/swipe-and-delete-site/similar-vs-duplicate-photos.html)
+- [How to Delete Screenshots on iPhone](https://atabany.github.io/swipe-and-delete-site/delete-screenshots-iphone.html)
+- [How to Find Large Videos on iPhone](https://atabany.github.io/swipe-and-delete-site/find-large-videos-iphone.html)
+- [Delete Photos Safely with iCloud Photos](https://atabany.github.io/swipe-and-delete-site/icloud-photo-deletion.html)
+- [A Simple Swipe Cleanup Plan for Your Camera Roll](https://atabany.github.io/swipe-and-delete-site/swipe-photo-cleanup.html)
+- [iPhone Photo Cleanup Guides](https://atabany.github.io/swipe-and-delete-site/guides.html)
+- [Which iPhone Photo Cleaner Fits Your Cleanup?](https://atabany.github.io/swipe-and-delete-site/best-photo-cleaner-apps.html)
+- [Cleanup Alternative for a Personal Photo Cleanup Plan](https://atabany.github.io/swipe-and-delete-site/cleanup-alternative.html)

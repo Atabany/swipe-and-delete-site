@@ -1,0 +1,432 @@
+[
+  {
+    "slug": "delete-duplicate-photos-iphone",
+    "title": "How to Delete Duplicate Photos on iPhone",
+    "description": "Find and merge duplicates in Apple Photos on iOS 17, 18 and 26, then review similar shots with a clear keep-or-remove checklist.",
+    "heading": "How to delete duplicate photos on iPhone",
+    "intro": "Open the Duplicates collection in Apple Photos, review a set, and use Merge to keep one combined copy. The route depends on your iOS version, and photos that merely look alike may need a separate manual review.",
+    "sections": [
+      {
+        "id": "built-in",
+        "title": "Start with Apple Photos",
+        "html": "<p>Use the built-in duplicate tool before adding another app. On iOS 17, open Photos, tap Albums, and find Duplicates under Utilities. On iOS 18, find Utilities on the main Photos screen, then Duplicates. On iOS 26, tap Collections, then Utilities, then Duplicates. Tap Merge beside a set and confirm the number of items. These routes are documented in Apple’s version-specific guides below.</p><p>Test one obvious pair first. Choose a copy you recognize and look at both images at a comfortable size. This small trial lets you understand the result before tackling the rest of the library. There is no need to treat every proposed pair as a decision you must make today. A short first pass is easier to check than a large, rushed batch.</p>"
+      },
+      {
+        "id": "missing",
+        "title": "If Duplicates is missing",
+        "html": "<p>An absent collection does not tell you how tidy the entire camera roll is. Apple says duplicate discovery first requires indexing and detection. Leave the iPhone locked and connected to power; depending on library size and background activity, detection may take a few days. When Photos has no detected duplicates, the collection does not appear. The Apple troubleshooting link explains these conditions.</p><p>While you wait, do something that does not depend on detection: review a familiar trip, old screenshots, or a small collection of repeated downloads. Resist repeatedly adding copies just to test the tool. That creates more clutter and makes the eventual results harder to interpret. Make a note of the originals you want to compare later, then return after the phone has had an uninterrupted charging period.</p>"
+      },
+      {
+        "id": "inspect",
+        "title": "Check what a copy means to you",
+        "html": "<p>A picture can have a purpose beyond its visible subject. You may have an original for future editing, a crop for a profile, and an annotated copy for explaining something to a friend. Before removing a version, ask whether its edits or context are still useful. If you cannot answer confidently, leave that set for a later session. Freeing space is useful only when the remaining collection serves you better.</p><p>For an easy decision, start with an accidental repeat download. For a difficult decision, compare the whole frame: text, expressions, edges, and anything added to the image. Avoid deciding from a tiny thumbnail. You are choosing what belongs in your library, not trying to meet a deletion quota. A copy worth keeping can remain even if an app puts it beside another one.</p>"
+      },
+      {
+        "id": "similar",
+        "title": "Handle similar shots separately",
+        "html": "<p>Two pictures from the same moment may be different photographs. A child’s expression, a moving pet, or a person entering the background can make one frame meaningful. The word similar is a request to compare, not an instruction to delete. Keep both when they tell different parts of the story. For a holiday landscape, you may prefer one broad view and one closer detail rather than a single winner.</p><p>An efficient order is to identify your favorite first, then assess the remaining frames against it. If you are preparing an album, think about how the pictures work together. Five versions of the same pose may be unnecessary, while two complementary images may be exactly right. The separate <a href=\"similar-vs-duplicate-photos.html\">similar versus duplicate guide</a> gives a more detailed decision process.</p>"
+      },
+      {
+        "id": "review",
+        "title": "Use a focused review when grouping is not enough",
+        "html": "<p>Photo Cleaner: Swipe &amp; Delete provides a swipe-and-review workflow for photo-library cleanup. Use a small, recognizable category for your first session. Make your keep-or-remove choices deliberately, then inspect the selections before confirming deletion. If a group includes something uncertain, keep it and move on. Review is the useful part of the workflow; a larger selected count is not a better result by itself.</p><p>Before starting, decide on one rule such as “keep the best family portrait and every genuinely different expression.” That rule prevents inconsistent decisions halfway through a group. Stop when you no longer feel attentive. A repeatable ten-minute session is often more practical than committing to clean an entire library at once. The app’s role is to organize the work you choose to do.</p>"
+      },
+      {
+        "id": "finish",
+        "title": "Finish with a check, not a target",
+        "html": "<p>After your pass, open the events you touched and confirm that the pictures you wanted are still there. Check a few important examples rather than relying only on a count. Write down what worked: perhaps repeated downloads were simple, while edited photos needed more attention. Next time, start with the easier category and leave enough time for the difficult decisions.</p><p>Before any cleanup, remember that iCloud Photos synchronizes deletions. Do not treat another synced device as an independent backup. Read the <a href=\"icloud-photo-deletion.html\">iCloud deletion guide</a> if your goal is to free local space while preserving originals elsewhere. Avoid immediately making every deletion permanent; give yourself time to spot a mistaken choice. The goal is a library you can navigate with confidence.</p>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Does Apple Photos find every similar picture?",
+        "answer": "Do not assume that a Duplicates result covers every lookalike frame. Use it for the sets Apple detects, then compare different shots of the same subject separately."
+      },
+      {
+        "question": "Why can’t I see Duplicates?",
+        "answer": "Apple requires time to index and detect duplicates while the phone is locked and on power. The collection is absent when no duplicates are detected."
+      },
+      {
+        "question": "Should I delete every extra photo in a group?",
+        "answer": "Keep versions with a separate purpose, edit or moment. A useful original and an annotated copy can both belong in your library."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Apple: Merge duplicates, iOS 17",
+        "url": "https://support.apple.com/en-in/guide/iphone/iph1978d9c23/17.0/ios/17.0"
+      },
+      {
+        "title": "Apple: Merge duplicates, iOS 18",
+        "url": "https://support.apple.com/en-in/guide/iphone/iph1978d9c23/18.0/ios/18.0"
+      },
+      {
+        "title": "Apple: Merge duplicates, iOS 26",
+        "url": "https://support.apple.com/en-by/guide/iphone/iph1978d9c23/26/ios/26"
+      },
+      {
+        "title": "Apple: Duplicates album missing",
+        "url": "https://support.apple.com/en-gb/102260"
+      },
+      {
+        "title": "Apple: Delete photos on iPhone or iPad",
+        "url": "https://support.apple.com/en-us/104967"
+      }
+    ]
+  },
+  {
+    "slug": "similar-vs-duplicate-photos",
+    "title": "Similar vs Duplicate Photos: What Should You Keep?",
+    "description": "Understand duplicates, lookalike shots and edited versions, then choose what to keep without losing the moments that matter.",
+    "heading": "Similar versus duplicate photos: a practical keep checklist",
+    "intro": "Duplicate copies repeat an image, while similar photos can show different frames, expressions or edits. Start with Apple Photos’ detected duplicate sets, then make a deliberate choice about lookalikes instead of treating every similar image as disposable.",
+    "sections": [
+      {
+        "id": "apple-first",
+        "title": "Use the built-in duplicate review first",
+        "html": "<p>Apple Photos gives you a starting point for detected copies. On iOS 17, look in Albums under Utilities; on iOS 18, find Utilities on the Photos screen; on iOS 26, open Collections and then Utilities. Open Duplicates and examine a set before choosing Merge. The version-specific Apple references below describe the routes. Once you have reviewed those sets, return to the events with several different shots.</p><p>A two-pass approach keeps different tasks clear. The first pass handles repeated copies. The second pass handles personal selection, such as deciding which portrait belongs in a family album. You do not need the same rule for both passes. An accidental duplicate download is a simple housekeeping choice. Picking between two smiles is an editorial choice that depends on what you value.</p>"
+      },
+      {
+        "id": "definitions",
+        "title": "Three situations that look the same in a grid",
+        "html": "<p>Imagine three adjacent thumbnails of a dog. The first and second are repeated saves of the same picture. The third was taken a second later, when the dog looked toward the camera. The third may look nearly identical at thumbnail size, yet it can be the one you want to keep. A familiar subject and a familiar background do not prove that nothing changed.</p><p>An edited copy adds a third case. You might have a full image, a square crop and a version with a label. Decide what each version is for. If the crop is still your profile image, it has a reason to stay. If an annotation records an important measurement, visual repetition does not make it useless. Read the contents rather than judging only the outline or color.</p>"
+      },
+      {
+        "id": "checklist",
+        "title": "Pick a keeper using five questions",
+        "html": "<p>First ask whether the picture matters at all. If it does, check the expression, the clarity of the subject, the framing, the important details, and the purpose of that version. There is no universal order. For a group portrait, everyone’s expression may matter most. For a receipt, legible text matters more than beautiful framing. For a pet, an unusual gesture can outweigh perfect sharpness.</p><p>Compare at a size that lets you inspect the detail you care about. If an image is destined for a small contact avatar, evaluate the face and crop. If it is destined for a large print, inspect the original more carefully. Write down your priority before a long session so that the next group receives the same attention. Keep uncertainty out of the deletion selection.</p>"
+      },
+      {
+        "id": "more-than-one",
+        "title": "When keeping more than one is the right choice",
+        "html": "<p>A sequence can tell a story that a single image cannot. Consider a birthday candle before and after it is blown out, or a landscape in changing light. You may want one photograph for an album and another because it includes a relative who rarely appears in pictures. These are different reasons to keep a frame, even when the scene is broadly similar.</p><p>Try selecting a small story rather than a single best shot. One establishing image, one close detail and one candid moment can feel more complete than ten almost matching portraits. If two frames genuinely add nothing different, removing the less useful one is reasonable. If they preserve separate memories, keep them. The aim is to make your choices intentional, not to force a fixed number per event.</p>"
+      },
+      {
+        "id": "review-workflow",
+        "title": "Make recommendations a starting point",
+        "html": "<p>A cleanup app can arrange candidates so you spend less time finding them. Your role is still to check what matters in each group. In Photo Cleaner: Swipe &amp; Delete, work through a focused category and review your chosen removals before confirming. Use the full picture when a tiny preview leaves doubt. Photo analysis is performed on your device; a suggested group does not replace your judgment.</p><p>Begin with an event you remember well. That lets you spot a meaningful alternate expression or an edited version quickly. After a few decisions, pause and look at your keep choices together. Do they retain the story you intended? If you are uncertain about a particular frame, leave it in the library. You can revisit a small deferred group when you have more context or a larger screen.</p>"
+      },
+      {
+        "id": "example",
+        "title": "An example that avoids a rushed choice",
+        "html": "<p>Suppose you have twelve pictures from a beach walk. Four repeat a downloaded image, five are attempts at the same portrait, and three capture different parts of the walk. Review the repeated saves first. Then compare the portraits: eyes, expression, horizon and whether anything important is cropped. Finally, assess the three separate moments as a group. You may reasonably keep all three.</p><p>The useful result is an understandable set, not a promised storage gain. Record the decision rule that helped you most and reuse it for the next event. If you are tidying to save space, inspect <a href=\"find-large-videos-iphone.html\">large videos</a> separately; a photo count alone does not tell you what will make the largest difference. Before deleting, consider your sync and backup arrangement using the linked iCloud guide.</p>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is a burst a duplicate?",
+        "answer": "A burst can contain different frames of a moving subject. Inspect the expression, action and framing before choosing which frames to keep."
+      },
+      {
+        "question": "Can I trust a suggested best photo?",
+        "answer": "Treat it as a suggestion. Your favorite may depend on a person, detail or memory that an automated comparison cannot decide for you."
+      },
+      {
+        "question": "Should I keep original and edited versions?",
+        "answer": "Keep both when they serve separate purposes. If the edited version is obsolete and you are sure you will not need it, it can be a reasonable removal candidate."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Apple: Merge duplicates, iOS 17",
+        "url": "https://support.apple.com/en-in/guide/iphone/iph1978d9c23/17.0/ios/17.0"
+      },
+      {
+        "title": "Apple: Merge duplicates, iOS 18",
+        "url": "https://support.apple.com/en-in/guide/iphone/iph1978d9c23/18.0/ios/18.0"
+      },
+      {
+        "title": "Apple: Merge duplicates, iOS 26",
+        "url": "https://support.apple.com/en-by/guide/iphone/iph1978d9c23/26/ios/26"
+      },
+      {
+        "title": "Apple: View photo and video information",
+        "url": "https://support.apple.com/en-in/guide/iphone/iph0edb9c18f/18.0/ios/18.0"
+      }
+    ]
+  },
+  {
+    "slug": "delete-screenshots-iphone",
+    "title": "How to Delete Screenshots on iPhone",
+    "description": "Clear old screenshots with Apple Photos, protect tickets and receipts, and build a small repeatable screenshot-review routine.",
+    "heading": "How to delete screenshots without losing useful information",
+    "intro": "Find Screenshots in Apple Photos, select the captures you no longer need, and confirm deletion. Review tickets, receipts, reference numbers and other useful information before treating a whole screenshot collection as clutter.",
+    "sections": [
+      {
+        "id": "photos",
+        "title": "Start in the Screenshots collection",
+        "html": "<p>In Apple Photos, find Screenshots within the media-type collections. On iOS 17 these appear in Albums; on iOS 18 they are on the main Photos screen; on iOS 26 start in Collections. Collection placement may vary with your layout. Open Screenshots, use Select to choose only the captures you have reviewed, then use the trash control and confirm. Start with a short visible batch.</p><p>Before selecting anything, choose a scope: old shopping research, completed travel plans, or captures from a particular month. That scope is more useful than a blanket rule about age. An old receipt may matter, while yesterday’s throwaway comparison may already be irrelevant. If you have hundreds of captures, do not start by assuming they all have the same purpose. Break the work into recognizable topics.</p>"
+      },
+      {
+        "id": "protect",
+        "title": "Separate information from temporary reminders",
+        "html": "<p>Screenshots often act as a second inbox. A confirmation page, a useful recipe, a reference number and a funny message may all sit together. For each capture, ask whether you need the picture itself, the information inside it, or neither. If the information still matters, decide where you would naturally look for it later. A travel document belongs with the rest of that trip’s documents.</p><p>Choose a way to retain important information before removing its screenshot. For example, save the original document, record the reference in your notes, or keep the capture until the event has passed. Verify that the retained version is readable and complete. Do not substitute a partial number or a cropped preview for the full information you actually need. This is a workflow recommendation, not a claim that every screenshot should be moved elsewhere.</p>"
+      },
+      {
+        "id": "batches",
+        "title": "Use a three-pile decision",
+        "html": "<p>Give yourself three outcomes: keep, remove and revisit. Keep active tickets, ongoing work references and sentimental captures. Remove material you recognize as finished or unnecessary. Revisit anything whose purpose you cannot remember quickly. The third outcome helps you make progress without converting uncertainty into deletion. You can return to that group after checking your calendar or asking yourself what project it belonged to.</p><p>An example: a completed furniture search leaves several nearly matching product captures. Keep the purchase confirmation if it remains useful. Remove rejected options you know you will not revisit. Leave an unfamiliar warranty screen until you have checked whether it belongs to the item you bought. A cleanup session feels more reliable when the reasoning stays connected to real tasks rather than a general “old means bad” rule.</p>"
+      },
+      {
+        "id": "sensitive",
+        "title": "Be deliberate with sensitive captures",
+        "html": "<p>A screenshot may contain more private information than the thumbnail reveals. Check captures of accounts, identity documents, conversations and work material carefully. If you retain a sensitive capture, consider where it belongs and who can access that location. If you no longer need it, review the deletion carefully. Avoid uploading screenshots to an unfamiliar web tool just to obtain a cleanup recommendation.</p><p>For this task, a readable local review is enough. Enlarge any text that influences your decision and verify whether the whole capture is relevant. A useful detail near the bottom of a long screenshot is easy to miss. Conversely, a capture of a page you can easily reopen may be less useful than an actual document. Make that distinction one item at a time when the consequences matter.</p>"
+      },
+      {
+        "id": "app",
+        "title": "Use a focused screenshot session",
+        "html": "<p>Photo Cleaner: Swipe &amp; Delete offers screenshot review as part of its photo-library workflow. Pick that category when you want to work through captures without bouncing between unrelated photos. Keep choices simple and review the selected removals before confirming. If you notice that you are guessing about what an image contains, stop and open it more carefully. A swipe is a convenient decision gesture, not a reason to skip reading.</p><p>Try a short session around one completed task. Keeping the context consistent makes decisions easier: all the captures relate to the same trip or purchase rather than years of unrelated reminders. After the session, inspect your remaining references. If the collection now contains only what you can explain, it is easier to maintain. The built-in Photos approach remains a good option when your batch is already small.</p>"
+      },
+      {
+        "id": "maintenance",
+        "title": "Keep the next backlog small",
+        "html": "<p>After a booking, delivery or finished project, review its captures while the purpose is fresh. Before taking a new screenshot, ask what you expect it to do: remember a link, preserve a document, or record something temporary. Choosing a destination at capture time can reduce the later work. The point is not to eliminate screenshots; it is to keep them useful and findable.</p><p>Use a recurring personal habit such as checking captures after travel rather than aiming for an empty collection. For storage concerns, compare the result with actual device storage instead of promising savings from an image count. If the phone is still full, <a href=\"find-large-videos-iphone.html\">review large videos</a> next. Before a wider cleanup, read about <a href=\"icloud-photo-deletion.html\">iCloud deletion</a> so your expectation matches your sync settings.</p>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Should I delete all screenshots at once?",
+        "answer": "Only if you have reviewed them and are sure none are useful. Tickets, receipts, account details and work references deserve a closer look."
+      },
+      {
+        "question": "Does removing screenshots remove my regular photos?",
+        "answer": "Selecting captures in a screenshot collection scopes your choices to those items. Still inspect the selection and confirmation before accepting it."
+      },
+      {
+        "question": "How do I keep screenshots under control?",
+        "answer": "Review captures when the task that created them ends. Save necessary information somewhere you can find it, and defer unclear items instead of guessing."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Apple: Find screenshots, iOS 17",
+        "url": "https://support.apple.com/en-in/guide/iphone/iphc872c0115/17.0/ios/17.0"
+      },
+      {
+        "title": "Apple: Find screenshots, iOS 18",
+        "url": "https://support.apple.com/en-in/guide/iphone/iphc872c0115/18.0/ios/18.0"
+      },
+      {
+        "title": "Apple: Find screenshots, iOS 26",
+        "url": "https://support.apple.com/en-in/guide/iphone/iphc872c0115/26/ios/26"
+      },
+      {
+        "title": "Apple: Delete photos on iPhone or iPad",
+        "url": "https://support.apple.com/en-us/104967"
+      },
+      {
+        "title": "Apple: Delete or hide photos, iOS 18",
+        "url": "https://support.apple.com/en-in/guide/iphone/iphb4defbde9/18.0/ios/18.0"
+      },
+      {
+        "title": "Apple: Check iPhone storage",
+        "url": "https://support.apple.com/en-us/108429"
+      }
+    ]
+  },
+  {
+    "slug": "find-large-videos-iphone",
+    "title": "How to Find Large Videos on iPhone",
+    "description": "Check video sizes in Apple Photos, review what is worth keeping, and prioritize a careful video cleanup when iPhone storage is full.",
+    "heading": "How to find and review large videos on iPhone",
+    "intro": "Check Settings → General → iPhone Storage, then open videos in Photos and swipe up or tap Info to inspect file details. Prioritize videos by their actual size and usefulness rather than guessing from how many thumbnails you see.",
+    "sections": [
+      {
+        "id": "storage",
+        "title": "Check where the space is going first",
+        "html": "<p>Open iPhone Storage and let the usage view load before deciding that photos are the problem. The useful question is which category deserves your attention. A photo-library cleanup is a sensible project when your saved media is substantial. If another app accounts for most of the usage, reviewing hundreds of pictures may do little for the immediate concern. Let the actual storage view set your next task.</p><p>Write down the available space before you begin, along with the goal: enough room for a recording, an update, or daily use. This is a baseline for your own comparison, not a promise of a particular result. Avoid turning a rough estimate into a precise deadline. Your device can have other activity during the session, so treat a later reading as context rather than a controlled experiment.</p>"
+      },
+      {
+        "id": "information",
+        "title": "Inspect the individual files",
+        "html": "<p>Find the Videos media-type collection in Photos and open a candidate. Swipe up or use Info to view details such as file size. Apple’s information guide documents that view. Start with clips you remember being long or no longer useful, but confirm the size before making assumptions. The visible length, resolution and contents help you understand a file; the number of clips by itself does not.</p><p>For a small library, write a short candidate list with the event, approximate size and keep-or-review decision. This avoids jumping between unrelated recordings. For a large library, focus first on an obvious group such as obsolete screen recordings or repeated attempts at a demonstration. You are looking for a manageable set of decisions, not inspecting every video before doing anything useful.</p>"
+      },
+      {
+        "id": "watch",
+        "title": "Watch before you choose",
+        "html": "<p>Play important candidates, including the middle and ending when appropriate. A recording can begin with an uninteresting setup and end with the only good view of a meaningful moment. Listen when the audio might matter. A shaky video may preserve a person’s voice, a performance or a useful explanation. The best deletion candidate is the one you know you no longer need, not automatically the biggest file.</p><p>Choose different rules for different kinds of recording. For work demonstrations, keep the final useful version and assess failed attempts. For family moments, consider whether shorter alternatives actually preserve the same event. For temporary tutorials, check whether the recording is still your only reference. When the rule is clear, review becomes faster without depending on indiscriminate selection or a promised amount of reclaimed space.</p>"
+      },
+      {
+        "id": "copies",
+        "title": "Verify separate copies when preserving originals",
+        "html": "<p>If you plan to remove a video after saving it elsewhere, check the copy before deletion. Open it at the destination, watch enough to confirm it is complete, and make sure you know how to find it again. Merely seeing a filename is not a complete verification. For a particularly important recording, give the copy check its own session instead of doing it while rushing through removals.</p><p>Consider who is responsible for the copy and whether the destination has its own retention policy. A file shared with someone else may be convenient without being a dependable personal archive. Write down the location of the recording and the reason you chose it. If you have not confirmed a copy you trust, keep the original candidate until you can. Extra review time is reasonable for an irreplaceable moment.</p>"
+      },
+      {
+        "id": "focused-review",
+        "title": "Use the app for a focused review",
+        "html": "<p>Photo Cleaner: Swipe &amp; Delete includes large-video review with file details. Use it to identify candidates and make deliberate choices about what belongs in your library. Review the selected items before confirming deletion. Keep any recording whose contents or copy status you have not checked. This app’s role here is media review and cleanup; do not expect it to clear system files or other apps’ caches.</p><p>Build a short list around one purpose, such as removing obsolete screen recordings. Once that list is done, stop and reassess your storage need. If you already have sufficient room, there is no reason to continue removing meaningful videos just because more candidates remain. A useful workflow has a stopping condition that follows your goal. The <a href=\"swipe-photo-cleanup.html\">camera roll plan</a> helps define bounded sessions.</p>"
+      },
+      {
+        "id": "future",
+        "title": "Make future recordings easier to manage",
+        "html": "<p>Before recording a long event, decide what you actually need to capture and where the result will live. Afterward, review accidental starts, abandoned attempts and redundant takes while you remember them. A clear name or note about the event can also make future decisions easier. The habit matters more than making every recording as short as possible; some moments deserve the whole clip.</p><p>When checking the outcome, give device storage time to update and separate your review decisions from final removal. With iCloud Photos enabled, deletion synchronizes rather than preserving an untouched cloud original. Read the <a href=\"icloud-photo-deletion.html\">iCloud safety guide</a> before relying on a synced copy. The most useful result is enough room for your next task while the recordings you care about remain accessible.</p>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can Apple Photos show a video’s file size?",
+        "answer": "Open the video, then swipe up or tap Info. Apple documents file size among the metadata details available in Photos."
+      },
+      {
+        "question": "Is the longest video always the largest?",
+        "answer": "Do not assume so. Check actual file details before ranking candidates, and decide usefulness separately from size."
+      },
+      {
+        "question": "Does this app compress my videos?",
+        "answer": "This guide describes video review and deletion. Compression is not a feature promised by Photo Cleaner: Swipe & Delete on this site."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Apple: View photo and video information",
+        "url": "https://support.apple.com/en-in/guide/iphone/iph0edb9c18f/18.0/ios/18.0"
+      },
+      {
+        "title": "Apple: Check iPhone storage",
+        "url": "https://support.apple.com/en-us/108429"
+      },
+      {
+        "title": "Apple: Set up and use iCloud Photos",
+        "url": "https://support.apple.com/en-us/108782"
+      },
+      {
+        "title": "Apple: Find Videos and other media types, iOS 26",
+        "url": "https://support.apple.com/en-gb/121870"
+      }
+    ]
+  },
+  {
+    "slug": "icloud-photo-deletion",
+    "title": "Delete Photos Safely with iCloud Photos",
+    "description": "Understand synced deletion, Optimize iPhone Storage and separate copies before removing photos from an iPhone that uses iCloud.",
+    "heading": "How to delete safely when you use iCloud Photos",
+    "intro": "With iCloud Photos enabled, deleting a photo on your iPhone also deletes it from the synchronized library on your other devices. If your aim is to save local space while retaining your originals, check Optimize iPhone Storage before deleting anything.",
+    "sections": [
+      {
+        "id": "settings",
+        "title": "Start with the built-in storage option",
+        "html": "<p>For iOS 17, 18 and 26, open Settings, your name, iCloud, then Photos. Check Sync this iPhone and Optimize iPhone Storage. Apple describes optimization as keeping full-resolution originals in iCloud and smaller local versions as needed. Allow time for the device to manage its local copies, and check your available iCloud storage before relying on that arrangement.</p><p>Choose the approach based on your actual goal. Wanting fewer items in the library is different from wanting the same library to occupy less local space. Write that goal down before changing anything. If the pictures themselves remain valuable, a smaller local footprint may be the task. If the library contains things you no longer want anywhere, deliberate deletion may be appropriate. These choices deserve different review sessions.</p>"
+      },
+      {
+        "id": "sync",
+        "title": "Treat synchronization differently from an archive",
+        "html": "<p>Apple explains that iCloud Photos keeps changes in step across your devices. A second device signed into the same synchronized library is therefore not an independent copy for the purpose of protecting a deletion. Do not infer safety just because the picture appears on both a phone and a tablet. Check what connects those views before assuming one can restore the other.</p><p>An archive decision starts with a question: where will this original remain after I make a change? Answer it with a location and a verification step, rather than the word cloud. Different services and folders can behave differently. If you cannot describe how the destination handles deletion, pause the removal and inspect it. This practical distinction avoids a common misunderstanding without requiring you to reorganize every storage service you use.</p>"
+      },
+      {
+        "id": "copy-check",
+        "title": "Verify the files you want to preserve",
+        "html": "<p>If you choose to keep a separate copy, open the exported material at the destination. Check several important photographs at full viewing size and play important videos. Confirm that a sequence contains the expected files, not only a preview or an incomplete transfer. Make sure you can locate the result without relying on a temporary notification or a recently opened list.</p><p>For an event you care about, keep a simple inventory: the date, destination and whether the copy was checked. The inventory does not need to be complicated. A short note that you can understand later is sufficient. If another person manages the destination, agree on what will be retained before removing your originals. A clear, verified copy plan is more useful than a vague assurance that something was uploaded.</p>"
+      },
+      {
+        "id": "small-test",
+        "title": "Use a small, recognizable cleanup batch",
+        "html": "<p>Once your goal and copy arrangement are clear, choose a modest batch of media you definitely do not need. Completed shopping research or an obsolete screenshot is easier to assess than an unfamiliar family event. Inspect each item and confirm the selection before accepting deletion. Afterward, check the library views you use normally so the result matches your expectation.</p><p>Keep the first batch separate from your larger plan. If the outcome surprises you, stop and investigate before making more changes. This is particularly useful when you recently changed devices or enabled synchronization. You do not need to learn every iCloud setting during the same session in which you remove files. Understand the relevant behavior first, then resume your cleanup with a rule you can explain.</p>"
+      },
+      {
+        "id": "recovery",
+        "title": "Understand the recovery boundary",
+        "html": "<p>Apple provides Recently Deleted for recovering photos and videos for 30 days unless they are permanently removed sooner. In iOS 26, open Photos, Collections, Utilities, then Recently Deleted and unlock the collection. Select the items and choose Recover. Earlier editions expose Recently Deleted under their Utilities area. Apple’s current deletion support article gives the available recovery and permanent-removal controls.</p><p>Use that recovery window as a chance to review a mistake, not as an excuse to make uncertain choices. Do not empty everything merely to make a counter look final. If you notice a missing image, inspect recovery promptly and check that it returns to the library. Shared libraries have extra ownership rules for permanent removal and recovery; consult Apple’s guide before managing another person’s contribution.</p>"
+      },
+      {
+        "id": "app",
+        "title": "Keep the cleanup workflow connected to this decision",
+        "html": "<p>Photo Cleaner: Swipe &amp; Delete helps you review photo-library clutter and confirm removals. It does not turn iCloud Photos into a separate archive, and an app selection cannot change what synchronization means. Use the workflow for media you genuinely want to remove, after resolving where your keepers belong. Photo analysis takes place on-device, which concerns scanning privacy rather than the retention behavior of iCloud.</p><p>For the next session, choose one narrow purpose and stop when it is complete. For example, remove screenshots from a finished trip while keeping photographs from that trip. If the phone still needs room, reassess the storage view and your optimization settings. The <a href=\"find-large-videos-iphone.html\">large-video guide</a> can help prioritize actual media sizes, while the <a href=\"swipe-photo-cleanup.html\">camera roll plan</a> provides a repeatable review structure.</p>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can I delete from iPhone and keep the same synced iCloud photo?",
+        "answer": "With iCloud Photos enabled, deletion propagates across the synchronized library. Use Optimize iPhone Storage for a smaller local footprint while retaining cloud originals."
+      },
+      {
+        "question": "Is Optimize Storage a way to reduce iCloud usage?",
+        "answer": "It changes local storage management. Your full-resolution originals still occupy iCloud storage; reducing the cloud library is a different task."
+      },
+      {
+        "question": "Should I empty Recently Deleted immediately?",
+        "answer": "Only when you are certain about permanent removal. Apple’s recovery opportunity ends when items are permanently deleted, even if the usual window has not expired."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Apple: Manage photo and video storage",
+        "url": "https://support.apple.com/en-ie/105061"
+      },
+      {
+        "title": "Apple: Set up and use iCloud Photos",
+        "url": "https://support.apple.com/en-us/108782"
+      },
+      {
+        "title": "Apple: Delete photos on iPhone or iPad",
+        "url": "https://support.apple.com/en-us/104967"
+      }
+    ]
+  },
+  {
+    "slug": "swipe-photo-cleanup",
+    "title": "A Simple Swipe Cleanup Plan for Your Camera Roll",
+    "description": "Tidy your camera roll in short sessions: choose a category, keep meaningful photos, review removals and stop with a clear result.",
+    "heading": "A simple swipe cleanup plan for your camera roll",
+    "intro": "Start with a small group in Apple Photos, decide what to keep, and review selected removals before confirming deletion. A swipe workflow can make repeated choices easier, especially when you define one category and a clear stopping point before starting.",
+    "sections": [
+      {
+        "id": "photos-first",
+        "title": "Try the built-in method on a small batch",
+        "html": "<p>Open a familiar event or collection in Apple Photos. Use Select, choose the pictures you no longer need, and review the selection before using the trash control. You can do useful cleanup this way without adding an app. If the batch contains repeated copies, review the built-in Duplicates collection first; the <a href=\"delete-duplicate-photos-iphone.html\">duplicate guide</a> explains the routes for iOS 17, 18 and 26.</p><p>The first batch is a practice session, not a race. Choose an event whose contents you understand and decide on a small endpoint, such as finishing that event or stopping after ten minutes. Observe where decisions become difficult. If you find yourself guessing about unknown pictures, change the scope to something clearer. A method works well when it helps you make reliable choices repeatedly.</p>"
+      },
+      {
+        "id": "goal",
+        "title": "Name the outcome before choosing photos",
+        "html": "<p>Choose one goal: remove temporary references, simplify a holiday album, or make room for a coming recording. Each suggests different candidates. Temporary references call for a task-based review. Album selection calls for looking at the story the pictures tell. A storage concern calls for checking actual usage and larger media, not simply choosing the biggest number of thumbnails you can remove.</p><p>Write one sentence that defines success. “I have kept the useful captures from this completed purchase” is specific. “My entire phone is clean” is too broad to guide a session. The smaller outcome also gives you permission to stop. If you need another session, you can choose it deliberately after checking what remains instead of continuing because the camera roll still contains thousands of pictures.</p>"
+      },
+      {
+        "id": "rules",
+        "title": "Use clear keep and remove rules",
+        "html": "<p>Keep irreplaceable memories, useful documents and photographs with a distinct purpose. Remove accidental saves, obsolete references and frames you have compared carefully and do not want. Leave ambiguous choices for later. These are starting rules to adapt, not automatic judgments about every file. A photograph that looks ordinary to someone else may matter because of who is in it or when it was taken.</p><p>For a group of portraits, pick a favorite and then ask whether another frame adds a genuinely different expression. For screenshots, ask whether the underlying task is complete. For videos, check contents before choosing. Switching rules from one category to another is reasonable; switching them randomly within one session creates confusion. Use the <a href=\"similar-vs-duplicate-photos.html\">similar-photo checklist</a> when an apparent duplicate is actually a different moment.</p>"
+      },
+      {
+        "id": "swipe",
+        "title": "Use swipe choices in a bounded session",
+        "html": "<p>Photo Cleaner: Swipe &amp; Delete uses right to keep and left to mark for removal. Choose a focused category or a short Quick Sweep session rather than beginning with the whole library. If you change your mind, undo your choice or restore an item in the in-app Trash Bin before confirming deletion. Photo analysis runs on your device; you still decide which candidates belong in the final selection.</p><p>Keep a comfortable pace. When you notice that several decisions have become guesses, pause. A brief break gives you a chance to see whether the next item actually fits the rule you chose. Convenience is helpful when it reduces repetitive navigation, but accuracy depends on attention. You can finish a smaller session today and return tomorrow; progress does not require an unbroken marathon.</p>"
+      },
+      {
+        "id": "final-review",
+        "title": "Separate selection from confirmation",
+        "html": "<p>Treat the final review as its own step. Look through the chosen removals with your original goal in mind. Check any sensitive document, sentimental event or group of lookalike portraits closely. If you cannot explain why an item is selected, keep it. This final pass can catch a decision that made sense at speed but feels wrong once you see the group together.</p><p>Confirm only after the selections look right. Then revisit one or two important keeper groups in the library. A good session leaves the collection easier to understand and preserves the moments you intended. Avoid judging the experience solely by a claimed space estimate. If storage is the goal, compare with the device view afterward and remember that updates and other activity can affect what you see.</p>"
+      },
+      {
+        "id": "habit",
+        "title": "Make maintenance easier than the first cleanup",
+        "html": "<p>Tie future sessions to real events: after a trip, after a project or when a shopping decision is finished. You still remember why the pictures exist, so the choices are clearer. Choose one category and one endpoint each time. Keep a short note about deferred items when context is missing. This prevents the same uncertain group from derailing every subsequent session.</p><p>If you use iCloud Photos, understand synchronized deletion before taking a larger step. The <a href=\"icloud-photo-deletion.html\">iCloud guide</a> helps distinguish local storage management from removing items everywhere. The sustainable result is a review habit you are willing to repeat. Keep the photographs you care about, make thoughtful removals, and leave yourself enough attention for the next event rather than trying to reach an arbitrary empty-library target.</p>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How long should a cleanup session be?",
+        "answer": "Choose a length or batch you can review attentively. Ten minutes or one familiar event is a useful starting point, then adapt it to your decisions."
+      },
+      {
+        "question": "Does a left swipe instantly delete a photo in this app?",
+        "answer": "It marks a removal choice. You can undo or restore an item in the in-app Trash Bin before you confirm deletion."
+      },
+      {
+        "question": "What should I do with photos I cannot decide about?",
+        "answer": "Keep them for a later session. Make a note of the missing context and continue with items whose purpose you understand."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Apple: Delete or hide photos, iOS 18",
+        "url": "https://support.apple.com/en-in/guide/iphone/iphb4defbde9/18.0/ios/18.0"
+      },
+      {
+        "title": "Apple: Delete photos on iPhone or iPad",
+        "url": "https://support.apple.com/en-us/104967"
+      },
+      {
+        "title": "Apple: Check iPhone storage",
+        "url": "https://support.apple.com/en-us/108429"
+      }
+    ]
+  }
+]
