@@ -2,81 +2,97 @@
   "index.html": {
     "title": "Photo Cleaner: Swipe & Delete \u2014 Your Personal Cleanup Plan",
     "url": "https://atabany.github.io/swipe-and-delete-site/",
-    "noindex": false
+    "noindex": false,
+    "modified": "2026-10-04"
   },
   "about.html": {
     "title": "About Photo Cleaner: Swipe & Delete",
     "url": "https://atabany.github.io/swipe-and-delete-site/about.html",
-    "noindex": false
+    "noindex": false,
+    "modified": "2026-10-04"
   },
   "support.html": {
     "title": "Support for Photo Cleaner: Swipe & Delete",
     "url": "https://atabany.github.io/swipe-and-delete-site/support.html",
-    "noindex": false
+    "noindex": false,
+    "modified": "2026-10-04"
   },
   "privacy.html": {
     "title": "Privacy information",
     "url": "https://atabany.github.io/swipe-and-delete-site/privacy.html",
-    "noindex": false
+    "noindex": false,
+    "modified": "2026-10-04"
   },
   "terms.html": {
     "title": "Terms of use",
     "url": "https://atabany.github.io/swipe-and-delete-site/terms.html",
-    "noindex": false
+    "noindex": false,
+    "modified": "2026-10-04"
   },
   "cleanup-planner.html": {
     "title": "Photo Cleanup Planner \u2014 Estimate Storage to Review",
     "url": "https://atabany.github.io/swipe-and-delete-site/cleanup-planner.html",
-    "noindex": false
+    "noindex": false,
+    "modified": "2026-10-04"
   },
   "delete-duplicate-photos-iphone.html": {
     "title": "How to Delete Duplicate Photos on iPhone",
     "url": "https://atabany.github.io/swipe-and-delete-site/delete-duplicate-photos-iphone.html",
-    "noindex": false
+    "noindex": false,
+    "modified": "2026-10-04"
   },
   "similar-vs-duplicate-photos.html": {
     "title": "Similar vs Duplicate Photos: What Should You Keep?",
     "url": "https://atabany.github.io/swipe-and-delete-site/similar-vs-duplicate-photos.html",
-    "noindex": false
+    "noindex": false,
+    "modified": "2026-10-04"
   },
   "delete-screenshots-iphone.html": {
     "title": "How to Delete Screenshots on iPhone",
     "url": "https://atabany.github.io/swipe-and-delete-site/delete-screenshots-iphone.html",
-    "noindex": false
+    "noindex": false,
+    "modified": "2026-10-04"
   },
   "find-large-videos-iphone.html": {
     "title": "How to Find Large Videos on iPhone",
     "url": "https://atabany.github.io/swipe-and-delete-site/find-large-videos-iphone.html",
-    "noindex": false
+    "noindex": false,
+    "modified": "2026-10-04"
   },
   "icloud-photo-deletion.html": {
     "title": "Delete Photos Safely with iCloud Photos",
     "url": "https://atabany.github.io/swipe-and-delete-site/icloud-photo-deletion.html",
-    "noindex": false
+    "noindex": false,
+    "modified": "2026-10-04"
   },
   "swipe-photo-cleanup.html": {
     "title": "A Simple Swipe Cleanup Plan for Your Camera Roll",
     "url": "https://atabany.github.io/swipe-and-delete-site/swipe-photo-cleanup.html",
-    "noindex": false
+    "noindex": false,
+    "modified": "2026-10-04"
   },
   "guides.html": {
     "title": "iPhone Photo Cleanup Guides",
     "url": "https://atabany.github.io/swipe-and-delete-site/guides.html",
-    "noindex": false
+    "noindex": false,
+    "modified": "2026-10-04"
   },
   "404.html": {
     "title": "Page not found \u2014 Swipe & Delete",
     "url": "https://atabany.github.io/swipe-and-delete-site/404.html",
-    "noindex": true
+    "noindex": true,
+    "modified": "2026-10-04"
   },
   "best-photo-cleaner-apps.html": {
     "title": "Which iPhone Photo Cleaner Fits Your Cleanup?",
     "url": "https://atabany.github.io/swipe-and-delete-site/best-photo-cleaner-apps.html",
-    "noindex": false
+    "noindex": false,
+    "modified": "2026-10-04"
   },
   "cleanup-alternative.html": {
     "title": "Cleanup Alternative for a Personal Photo Cleanup Plan",
     "url": "https://atabany.github.io/swipe-and-delete-site/cleanup-alternative.html",
-    "noindex": false
+    "noindex": false,
+    "modified": "2026-10-04"
   }
 }
