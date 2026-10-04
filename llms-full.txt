@@ -31,7 +31,7 @@ https://atabany.github.io/swipe-and-delete-site/
 A little less clutter. A lot more room.
 Keep the memories.
 Lose the extras.
-A personal plan for your camera roll. Find repeated shots, review what takes up space, and decide what stays—one easy swipe at a time.
+Photo Cleaner: Swipe & Delete gives your camera roll a personal cleanup plan. Find repeated shots, review what takes up space, and decide what stays—one easy swipe at a time.
 iPhone · iOS 17+
 Photo analysis on-device
 Free to start
@@ -659,14 +659,14 @@ Photo Cleaner: Swipe & Delete
 Personal cleanup plan, similar photos, screenshot and large-video review, swiping
 One-time free allowance; Pro tools require a purchase. No video compression claim.
 Slidebox
-Swiping and organizing photos into albums
+Swipe review, tap-to-sort albums, favorites and photo comparison
 Read current premium terms and decide whether album organization is your main goal.
 Cleanup
-Duplicate/similar-media cleanup and a wider set of cleanup tools
-Check included features, subscription terms, and photo permissions.
+Duplicate/similar-media cleanup, video compression, email and contact cleanup
+If compression or email/contact cleanup is your goal, verify the current included features and subscription terms.
 Clever Cleaner
-Similar-photo review, screenshots, and swipe cleanup
-Current version offers Premium and free allowances; do not assume older unlimited-free claims still apply.
+Similar-photo review, screenshots, swipe cleanup and media compression
+Current listing offers Premium, daily free allowances and unlimited Swipe. Check which tools require Premium; older completely-free claims may be outdated.
 Make the choice in three steps
 Identify the task. Sorting albums, finding repeated shots, and freeing local storage are different jobs.
 Try the built-in Photos collections and inspect Settings → General → iPhone Storage. A cluttered grid does not always mean Photos is your biggest storage problem.
@@ -714,7 +714,8 @@ What Swipe & Delete focuses on
 The app helps you choose where to start: review duplicate and similar photos, old screenshots, and large videos, then follow focused sessions based on your priorities. Swipe right to keep a photo or left to mark it for removal. Undo a swipe or restore a marked item from the in-app Trash Bin before confirming deletion.
 Photo analysis runs on your device; photos are not uploaded for scanning. Apple and RevenueCat handle purchase services. It is an iPhone photo-library app, not a system-cache cleaner or a promise to speed up your phone.
 Compare the tradeoffs fairly
-Cleanup advertises a broader set of cleanup features in its own App Store listing. Read that listing if you want tools beyond photo review. Swipe & Delete’s focus is your photo library and personal review plan; this page makes no claim that it is faster, more accurate, or universally better.
+Cleanup’s current App Store listing
+ advertises video compression, email cleanup and contact cleanup alongside photo tools. Those are meaningful differences if you want to compress a video rather than remove it, or manage contacts and email. Read the current listing to confirm included features. Swipe & Delete’s focus is your photo library and personal review plan; this page makes no claim that it is faster, more accurate, or universally better.
 Both apps offer in-app purchases. Swipe & Delete starts with a one-time free allowance; Pro unlocks unlimited swipes and advanced tools. Subscription and one-time purchase availability are shown inside the app. Check each app’s current terms rather than choosing from outdated comparison prices.
 If video compression is essential, check whether a current product explicitly offers it. Swipe & Delete reviews large videos; this website does not claim that it compresses them.
 Try a small, safe session

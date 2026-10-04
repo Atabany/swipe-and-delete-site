@@ -39,6 +39,9 @@ for f in ROOT.glob('*.html'):
  pages[f.name]=p
 sitemap={x.text for x in ET.parse(ROOT/'sitemap.xml').getroot().findall('{*}url/{*}loc')};llms=(ROOT/'llms.txt').read_text();full=(ROOT/'llms-full.txt').read_text()
 titles=set();descriptions=set();tags={}
+defined_ids={node['@id'] for p in pages.values() for node in p.ld if '@id' in node}
+for identity in [BASE+'#app',BASE+'#website',BASE+'about.html#author']:
+ if identity not in defined_ids:errors.append('Missing defined entity '+identity)
 for name,p in pages.items():
  expected=BASE+('' if name=='index.html' else name)
  if p.h1!=1:errors.append(f'{name}: expected one H1')
@@ -70,18 +73,30 @@ for name,p in pages.items():
   if not target.exists():errors.append(f'{name}: missing target {link}')
   elif u.fragment and target.name in pages and u.fragment not in pages[target.name].ids:errors.append(f'{name}: target anchor missing {link}')
  for ld in p.ld:
+  if ld.get('@type')=='Article':
+   if ld.get('author',{}).get('@id')!=BASE+'about.html#author':errors.append(f'{name}: inconsistent author identity')
+   if ld.get('about',{}).get('@id')!=BASE+'#app':errors.append(f'{name}: inconsistent app identity')
+  if ld.get('@type')=='Person' and ld.get('@id')!=BASE+'about.html#author':errors.append(f'{name}: inconsistent person identifier')
   if ld.get('@type')=='FAQPage':
    for q in ld['mainEntity']:
     if q['name'] not in text or q['acceptedAnswer']['text'] not in text:errors.append(f'{name}: FAQ markup differs from visible text')
   if ld.get('@type')=='MobileApplication':
    f=json.loads((ROOT/'_ops/facts.json').read_text());r=ld['aggregateRating']
    if r['ratingValue']!=f['averageUserRating'] or r['ratingCount']!=f['userRatingCount']:errors.append(f'{name}: rating mismatch')
+   if ld.get('identifier',{}).get('value')!=CONFIG['appId']:errors.append(f'{name}: incorrect app-store identity')
+   if ld.get('@id')!=BASE+'#app':errors.append(f'{name}: inconsistent application identifier')
 for tag,names in tags.items():
  if len(names)>1:errors.append(f'Campaign tag reused across pages: {tag}: {names}')
 for path in sitemap:
  if path not in {BASE+('' if n=='index.html' else n) for n in pages if n!='404.html'}:errors.append(f'Unknown sitemap URL {path}')
-for bot in ['OAI-SearchBot','Claude-SearchBot','PerplexityBot','Bingbot']:
- if 'User-agent: '+bot not in (ROOT/'robots.txt').read_text():errors.append('Missing crawler '+bot)
+robots=(ROOT/'robots.txt').read_text()
+for bot in ['OAI-SearchBot','Claude-SearchBot','PerplexityBot','Googlebot','Bingbot']:
+ group=next((g for g in robots.split('\n\n') if 'User-agent: '+bot+'\n' in g+'\n'),None)
+ if not group or 'Allow: /' not in group:errors.append('Missing crawler allowance '+bot)
+ elif 'Disallow:' not in group or '_ops/' not in group:errors.append('Missing operations exclusion '+bot)
+if CONFIG.get('googleSiteVerification') and ('name="google-site-verification" content="'+CONFIG['googleSiteVerification']+'"') not in (ROOT/'index.html').read_text():errors.append('Missing Google verification tag')
+for page in ('index.html','how-it-works.html'):
+ if 'FAQPage' not in {x.get('@type') for x in pages[page].ld}:errors.append(f'{page}: missing matching FAQ structured data')
 key=CONFIG['indexNowKey']
 if (ROOT/(key+'.txt')).read_text()!=key:errors.append('IndexNow key mismatch')
 for g in json.loads((ROOT/'_ops/guides.json').read_text()) if (ROOT/'_ops/guides.json').exists() else []:
