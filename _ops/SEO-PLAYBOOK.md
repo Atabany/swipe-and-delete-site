@@ -26,3 +26,7 @@ Review stale Apple menus and competitor features, rating accuracy, campaigns, br
 ## Deployment
 
 Canonical website: https://swipeanddelete.app/. Registered October 4, 2026, with DNS-only GitHub Pages records and HTTPS enforced. Keep CNAME, config base, sitemap, app links and verification files synchronized. The initial https://atabany.github.io/swipe-and-delete-site/ address redirects each existing path to this domain. Preserve those paths. Google Domain property swipeanddelete.app and Bing property https://swipeanddelete.app/ are verified; do not use OAuth imports.
+
+## Growth batch — 18 October 2026
+
+Prepared `deleted-photos-storage-still-full.html`, distinguishing the app review queue, Recently Deleted, optimized local copies and actual iPhone storage. Linked it from the planner, iCloud article and guide hub. Refreshed the verified listing to 1.13.0. New articles now support their actual publication date instead of inheriting the site launch date.

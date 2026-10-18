@@ -330,7 +330,7 @@
       {
         "id": "app",
         "title": "Keep the cleanup workflow connected to this decision",
-        "html": "<p>Photo Cleaner: Swipe &amp; Delete helps you review photo-library clutter and confirm removals. It does not turn iCloud Photos into a separate archive, and an app selection cannot change what synchronization means. Use the workflow for media you genuinely want to remove, after resolving where your keepers belong. Photo analysis takes place on-device, which concerns scanning privacy rather than the retention behavior of iCloud.</p><p>For the next session, choose one narrow purpose and stop when it is complete. For example, remove screenshots from a finished trip while keeping photographs from that trip. If the phone still needs room, reassess the storage view and your optimization settings. The <a href=\"find-large-videos-iphone.html\">large-video guide</a> can help prioritize actual media sizes, while the <a href=\"swipe-photo-cleanup.html\">camera roll plan</a> provides a repeatable review structure.</p>"
+        "html": "<p>Photo Cleaner: Swipe &amp; Delete helps you review photo-library clutter and confirm removals. It does not turn iCloud Photos into a separate archive, and an app selection cannot change what synchronization means. Use the workflow for media you genuinely want to remove, after resolving where your keepers belong. Photo analysis takes place on-device, which concerns scanning privacy rather than the retention behavior of iCloud.</p><p>For the next session, choose one narrow purpose and stop when it is complete. For example, remove screenshots from a finished trip while keeping photographs from that trip. If the phone still needs room, reassess the storage view and your optimization settings. The <a href=\"find-large-videos-iphone.html\">large-video guide</a> can help prioritize actual media sizes, while the <a href=\"swipe-photo-cleanup.html\">camera roll plan</a> provides a repeatable review structure.</p><p><a href=\"deleted-photos-storage-still-full.html\">If photos are deleted but local storage still looks full, check each stage of the cleanup.</a></p>"
       }
     ],
     "faqs": [
@@ -360,7 +360,8 @@
         "title": "Apple: Delete photos on iPhone or iPad",
         "url": "https://support.apple.com/en-us/104967"
       }
-    ]
+    ],
+    "updated": "2026-10-18"
   },
   {
     "slug": "swipe-photo-cleanup",
@@ -426,6 +427,80 @@
       {
         "title": "Apple: Check iPhone storage",
         "url": "https://support.apple.com/en-us/108429"
+      }
+    ]
+  },
+  {
+    "slug": "deleted-photos-storage-still-full",
+    "title": "Deleted Photos but iPhone Storage Is Still Full?",
+    "description": "Check in-app Trash, Recently Deleted, iCloud optimization and iPhone Storage to understand why removing photos may free less space than expected.",
+    "heading": "Deleted photos, but your iPhone storage is still full?",
+    "intro": "First check whether the photos were actually deleted from Apple Photos, then check Recently Deleted and Settings → General → iPhone Storage. Removing photos from a review queue or deleting optimized copies can produce a different result from the total file size you expected.",
+    "published": "2026-10-18",
+    "updated": "2026-10-18",
+    "sections": [
+      {
+        "id": "which-storage",
+        "title": "1. Identify which storage is full",
+        "html": "<p>Open Settings → General → iPhone Storage. This is the phone’s physical storage. Your iCloud storage is a separate allowance, shown under your Apple Account’s iCloud settings. A warning about one does not establish that the other is full. Write down which warning you saw and which category occupies the space before making another deletion.</p><p>If Photos is a small part of device usage while another app holds downloaded files, a photo cleanup may have little effect on the problem. Use the storage screen to choose the next task. Do not keep deleting meaningful pictures because the overall bar has not changed as much as you hoped.</p>"
+      },
+      {
+        "id": "review-queue",
+        "title": "2. Separate the app’s review queue from Apple deletion",
+        "html": "<p>In Photo Cleaner: Swipe &amp; Delete, marking a photo for removal is a decision awaiting review. The in-app Trash Bin lets you inspect those choices and restore anything you want to keep before confirming deletion. A selected-item count is therefore not evidence that those items have left the system photo library.</p><p>Open a familiar selected photo in Apple Photos to check its state. If it is still in the main library, return to the app’s review step and decide whether to complete the deletion. Read the system confirmation carefully. Keep uncertain items rather than approving a large group just to reach an estimated storage target.</p>"
+      },
+      {
+        "id": "recently-deleted",
+        "title": "3. Check Recently Deleted before making anything permanent",
+        "html": "<p>Apple normally keeps deleted photos and videos in Recently Deleted for 30 days. On iOS 26, open Photos → Collections → Utilities → Recently Deleted and authenticate when asked. Earlier versions arrange Utilities differently. This is a recovery stage after deletion, separate from the app’s pre-deletion review queue.</p><p>Inspect the contents and recover mistakes first. Permanently removing an item ends its recovery through Recently Deleted. If there is no urgent need, preserve the recovery window while checking the rest of your library. If you choose permanent deletion, make that choice for specific verified items; another synced device is not an independent backup.</p>"
+      },
+      {
+        "id": "optimized-copies",
+        "title": "4. Understand original file size versus local space",
+        "html": "<p>With Optimize iPhone Storage, iCloud can hold full-resolution originals while the phone keeps smaller versions. Removing an original-sized item therefore may release fewer bytes on this particular device than its full media size suggests. An estimate based on library file sizes is useful for prioritizing review, but it cannot promise a matching change in local free space.</p><p>For illustration, imagine a planner adds several video sizes to a total of 2 GB. That is arithmetic about the supplied file sizes, not a measurement of 2 GB currently stored on the phone. The app does not control how much of each original iOS has cached locally. Compare actual device storage rather than treating the estimate as a failed guarantee.</p>"
+      },
+      {
+        "id": "icloud-goal",
+        "title": "5. Match the action to your iCloud goal",
+        "html": "<p>If you want to keep every original but reduce local storage, investigate Apple’s Optimize iPhone Storage option before deleting from the library. If you want to remove unwanted media everywhere, understand that iCloud Photos synchronizes deletions across devices signed in to the same account with syncing enabled.</p><p>A cleanup app cannot turn a synchronized deletion into “remove from this phone only.” Our <a href=\"icloud-photo-deletion.html\">iCloud deletion guide</a> explains that distinction. Do not sign out, disable synchronization or erase a library as an experiment to force the storage bar to change. Establish where the originals are preserved before changing your storage strategy.</p>"
+      },
+      {
+        "id": "measure",
+        "title": "6. Check the result and choose the next category",
+        "html": "<p>After completing a deliberate cleanup, revisit the same iPhone Storage screen. Record what changed and whether Photos is still the main storage category. There is no universal refresh time or guaranteed amount of reclaimed space we can promise. A discrepancy is a reason to inspect the workflow and storage category, rather than repeat a destructive action.</p><p>If unwanted large videos remain, use the <a href=\"find-large-videos-iphone.html\">large-video review guide</a>. If the remaining clutter is mostly repeated images, use the <a href=\"delete-duplicate-photos-iphone.html\">duplicate-photo guide</a>. The <a href=\"cleanup-planner.html\">cleanup planner</a> can compare your own assumptions about categories, with its limitations stated beside the calculation.</p>"
+      },
+      {
+        "id": "support-details",
+        "title": "What to check before asking for help",
+        "html": "<p>Note your iOS version, the app version, which storage warning appeared and whether the items remain in the main library, the in-app Trash Bin or Recently Deleted. Include whether iCloud Photos and optimization are enabled. These details help distinguish an unfinished review from a storage-management question without sharing personal photographs.</p><p>Do not send your entire camera roll or an unredacted account screenshot. A description of the steps and the before-and-after storage categories is a useful starting point. You can contact <a href=\"support.html\">the developer</a> about the app’s review workflow; Apple’s storage documentation below covers the system behavior the app cannot change.</p>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Does marking a photo in the app free storage immediately?",
+        "answer": "No. Marked items first wait in the in-app Trash Bin for review. Confirmed system deletion is a separate step, and Recently Deleted may retain the media afterward."
+      },
+      {
+        "question": "Can I delete from my iPhone but keep the same photo in iCloud Photos?",
+        "answer": "Deleting a synchronized library photo also deletes it across iCloud Photos devices. Consider Optimize iPhone Storage when the goal is smaller local copies while retaining originals."
+      },
+      {
+        "question": "Does a 2 GB cleanup estimate guarantee 2 GB of free phone storage?",
+        "answer": "No. Estimates based on full file sizes can differ from local bytes, especially with optimized iCloud copies. Check actual iPhone Storage after the workflow."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Apple: Delete photos on iPhone or iPad",
+        "url": "https://support.apple.com/en-us/104967"
+      },
+      {
+        "title": "Apple: Manage photo and video storage",
+        "url": "https://support.apple.com/en-us/105061"
+      },
+      {
+        "title": "Apple: Set up and use iCloud Photos",
+        "url": "https://support.apple.com/en-us/108782"
       }
     ]
   }

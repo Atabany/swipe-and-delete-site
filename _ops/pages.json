@@ -63,13 +63,19 @@
     "title": "Delete Photos Safely with iCloud Photos",
     "url": "https://swipeanddelete.app/icloud-photo-deletion.html",
     "noindex": false,
-    "modified": "2026-10-04"
+    "modified": "2026-10-18"
   },
   "swipe-photo-cleanup.html": {
     "title": "A Simple Swipe Cleanup Plan for Your Camera Roll",
     "url": "https://swipeanddelete.app/swipe-photo-cleanup.html",
     "noindex": false,
     "modified": "2026-10-04"
+  },
+  "deleted-photos-storage-still-full.html": {
+    "title": "Deleted Photos but iPhone Storage Is Still Full?",
+    "url": "https://swipeanddelete.app/deleted-photos-storage-still-full.html",
+    "noindex": false,
+    "modified": "2026-10-18"
   },
   "guides.html": {
     "title": "iPhone Photo Cleanup Guides",
