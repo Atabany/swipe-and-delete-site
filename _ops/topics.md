@@ -3,7 +3,7 @@
 Query ideas, not measured search volumes. Prioritize real Search Console questions once data exists.
 
 - Why is the Duplicates collection missing on my iPhone? (indexing, locked/charging, edition paths)
-- How do I clean up photos with Limited Photos Access? (permissions and practical scope)
+- done (2026-10-22, limited-photo-access-iphone.html) — How do I clean up photos with Limited Photos Access? (permissions and practical scope)
 - done (2026-10-18, deleted-photos-storage-still-full.html) — Why did deleting photos not free iPhone storage? (Recently Deleted, iCloud optimization, storage measurement)
 - How do I choose the best photo in a group of similar shots? (focus, expression, intent, edits)
 - How do I sort photos into albums without duplicating files? (Photos/Slidebox, accurate album semantics)

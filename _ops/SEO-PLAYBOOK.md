@@ -30,3 +30,7 @@ Canonical website: https://swipeanddelete.app/. Registered October 4, 2026, with
 ## Growth batch — 18 October 2026
 
 Prepared `deleted-photos-storage-still-full.html`, distinguishing the app review queue, Recently Deleted, optimized local copies and actual iPhone storage. Linked it from the planner, iCloud article and guide hub. Refreshed the verified listing to 1.13.0. New articles now support their actual publication date instead of inheriting the site launch date.
+
+## Growth batch — 22 October 2026
+
+Added `limited-photo-access-iphone.html` from the permissions backlog, with Apple primary sources, built-in Photos first, selected-library limits, accurate app behavior, matching FAQs and its actual publication date. Linked from Support and the guide hub. Fixed article contents lists inheriting the header navigation flex layout; `.toc` now stacks its heading and links, including on phones. Refreshed actual listing facts to 1.14.0 and retained visible rating-without-count preference.

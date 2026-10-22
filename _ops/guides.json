@@ -503,5 +503,86 @@
         "url": "https://support.apple.com/en-us/108782"
       }
     ]
+  },
+  {
+    "slug": "limited-photo-access-iphone",
+    "title": "Limited Photo Access on iPhone: Cleanup Guide",
+    "description": "Understand which photos a cleanup app can see, change its selected-photo access, and review your library without sharing everything.",
+    "heading": "Clean up iPhone photos with Limited Access",
+    "intro": "A cleanup app with Limited Access can review only the photos and videos you have shared with it. Review your library directly in Apple Photos, or add a deliberate selection in Settings before returning to the cleanup app.",
+    "updated": "2026-10-22",
+    "published": "2026-10-22",
+    "sections": [
+      {
+        "id": "start-in-photos",
+        "title": "Start with the built-in Photos app",
+        "html": "<p>You do not need to give another app your entire library to begin a cleanup. Open Apple Photos and choose a small group you recognize: one event, a few old screenshots, or several unwanted recordings. Review them there first. The permission granted to a third-party cleanup app is a different question from what you can browse in Photos itself.</p><p>Set a concrete goal before opening a permission screen. For example, decide to review screenshots from a finished project, rather than to clear every image on the phone. Keep anything you still need as evidence, a reference, or a memory. If the built-in workflow handles that group comfortably, you can finish without changing another app's access. Our <a href=\"delete-screenshots-iphone.html\">screenshot cleanup guide</a> explains that starting point.</p>"
+      },
+      {
+        "id": "understand-scope",
+        "title": "Understand what the app can actually see",
+        "html": "<p>Apple's limited-library permission gives an app access to a selection instead of the whole collection. A missing picture in the cleanup app may therefore be outside its allowed selection. It is not, by itself, evidence that the original has disappeared. Compare the app's view with Apple Photos before diagnosing a scanning problem.</p><p>Scope matters when comparing similar images. Suppose you took five portraits but shared only two with a cleanup app. A review of those two cannot tell you which of all five is best. Include the relevant alternatives in your selection, or compare the complete group in Photos. Treat any cleanup result as a result for the accessible items, not a certificate that the rest of the library is tidy.</p>"
+      },
+      {
+        "id": "change-selection",
+        "title": "Review or change the selection in Settings",
+        "html": "<ol><li>Open iPhone Settings, then Privacy &amp; Security.</li><li>Choose Photos and find the cleanup app in the permission list.</li><li>Review its current access. If selected or limited access is enabled, use the available selection control to adjust the shared items.</li><li>Return to the app and check whether the expected photos appear before making cleanup decisions.</li></ol><p>Apple's labels and selection controls vary with the iOS edition and the app's permission request. Follow the Photos permission screen rather than looking for one exact button name from an older screenshot. Do not switch to full access merely because an app shows fewer pictures than expected. First check whether adding the particular group you want to review is enough.</p><p>If the app does not appear in the category, open it and follow its own explanation of why it needs photo access. If access is restricted and cannot be changed, Apple notes that parental or institutional controls can be involved. Do not remove those controls as a cleanup workaround.</p>"
+      },
+      {
+        "id": "small-session",
+        "title": "Choose a manageable review group",
+        "html": "<p>Choose a group with a clear boundary: the repeated frames from one afternoon, for example. Include the images you want to compare, not just the copies you already suspect you will remove. This makes the session useful without requiring an all-library decision. A boundary also gives you a way to check your work afterward.</p><p>Make a short note of the event and the outcome you want. Review at a pace that lets you examine faces, text, and edits. Keep uncertain versions for another pass. At the end, revisit that event in Photos and confirm that the pictures you intended to keep are present. A small, checked session is more useful than a large deletion count you cannot explain.</p>"
+      },
+      {
+        "id": "swipe-and-delete",
+        "title": "How this applies to Swipe & Delete",
+        "html": "<p>Photo Cleaner: Swipe &amp; Delete accepts authorized or limited Photos access. Its Settings screen reports the permission state and provides a way to open iPhone settings for an existing permission choice. With limited access, its review is bounded by the items iOS makes available. Purchasing Pro does not expand that system permission.</p><p>Use the app's swipe controls to keep an item or mark it for removal, then check the in-app Trash before confirming deletion. That review queue is part of the cleanup workflow; the permission selection in iPhone Settings is not a replacement for it. Photo analysis runs on your device. See <a href=\"how-it-works.html\">how photo review works and its limits</a> and the <a href=\"privacy.html\">privacy information</a> before deciding what access suits you.</p>"
+      },
+      {
+        "id": "before-deleting",
+        "title": "Check the consequences before deleting",
+        "html": "<p>Limited access limits what an app can see; it does not turn an authorized deletion into a harmless preview. When iCloud Photos is on, deleting an item affects the other devices using that synced library. Keep a separate copy of irreplaceable material before cleanup, and distinguish permission changes from deletion commands.</p><p>Apple normally retains deleted items in Recently Deleted for 30 days, unless they are permanently removed earlier. Avoid emptying that collection simply to finish a session. If your concern is remaining device space, use our <a href=\"deleted-photos-storage-still-full.html\">storage still full troubleshooting guide</a>. If an expected photo is missing only inside the cleanup app, return to the permission selection first. These are different problems and need different checks.</p>"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Does Limited Access mean the cleanup app scans every photo?",
+        "answer": "No. Its view is limited to the items shared with it. Check the relevant group in Apple Photos if you need to compare pictures outside that selection."
+      },
+      {
+        "question": "Must I allow full access to start cleaning up?",
+        "answer": "You can begin in Apple Photos without granting another app access. For an app review, share the relevant group if selected access is suitable for your task."
+      },
+      {
+        "question": "Will Pro unlock access to the rest of my photos?",
+        "answer": "No. Pro purchase status and iOS Photos permission are separate. Change photo access only through the system permission controls."
+      },
+      {
+        "question": "Why is a photo visible in Photos but missing in the app?",
+        "answer": "It may be outside the selected library available to that app. Check its Photos permission and selected items before assuming a scanning or deletion problem."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Apple: control access to information in apps",
+        "url": "https://support.apple.com/en-ie/guide/iphone/iph251e92810/ios"
+      },
+      {
+        "title": "Apple: the limited Photos library and selected items",
+        "url": "https://developer.apple.com/documentation/PhotoKit/delivering-an-enhanced-privacy-experience-in-your-photos-app"
+      },
+      {
+        "title": "Apple WWDC: handle the limited Photos library",
+        "url": "https://developer.apple.com/videos/play/wwdc2020/10641/"
+      },
+      {
+        "title": "Apple: restricted photo-library authorization",
+        "url": "https://developer.apple.com/documentation/photos/phauthorizationstatus/restricted"
+      },
+      {
+        "title": "Apple: delete and recover photos",
+        "url": "https://support.apple.com/en-us/104967"
+      }
+    ]
   }
 ]
