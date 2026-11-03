@@ -34,3 +34,15 @@ Prepared `deleted-photos-storage-still-full.html`, distinguishing the app review
 ## Growth batch — 22 October 2026
 
 Added `limited-photo-access-iphone.html` from the permissions backlog, with Apple primary sources, built-in Photos first, selected-library limits, accurate app behavior, matching FAQs and its actual publication date. Linked from Support and the guide hub. Fixed article contents lists inheriting the header navigation flex layout; `.toc` now stacks its heading and links, including on phones. Refreshed actual listing facts to 1.14.0 and retained visible rating-without-count preference.
+
+## Growth batch — 4 November 2026
+
+Owner asked for one new guide. Added `live-photos-storage-iphone.html` from the backlog, narrowed to Live Photos. No page on this site mentioned them. The Duplicates-missing idea at the top of `topics.md` was rejected because the duplicates guide already answers it in a section and an FAQ. Bursts were rejected because the code comment in `FilteredPhotosView` says only burst representatives are caught, so frame-by-frame review can't be promised. The choice is editorial judgment: no Search Console query or search volume was read for this run.
+
+Contents: what a Live Photo stores, how to measure your own result, turning Live off per iOS version, Preserve Settings, a table separating what each action does from its storage effect, finding them in Photos, what is worth keeping, exact app path (Home, Browse library, All Categories, Photo types, Live Photos), limits, a worked session plan (1,200 ÷ 50 = 24 sessions; 24 ÷ 3 a week = 8 weeks, labelled as an example). No megabytes-per-Live-Photo figure is given because Apple publishes none. The page says a storage saving from turning Live off in Edit is undocumented, rather than asserting there is or isn't one.
+
+Sources checked 4 November against the iOS 27, 26, 18 and 17 editions where they exist: Apple's iPhone guide (Take Live Photos, Edit Live Photos, Save camera settings, Undo and revert, Media types, Delete or hide) and PhotoKit `PHAssetResourceType.pairedVideo`. The iOS 17 Media Types path is not on an Apple page we could load, so it follows the Albums route used elsewhere. App behavior checked in `LivePhotosView`, `HomeView`, `PhotoCardView`, `TrashBinScreen`, `PHAsset+Size` (storage figures are estimates) and `Localizable.strings` at 1.14.0, which matches the live listing. Facts and rating were not refreshed; the visible rating still follows the no-count preference.
+
+Linked from the guide hub, the swipe plan, large-video and storage-still-full guides, sitemap and LLM files. Those three guides keep their dates because only one sentence was added, and the hub's lastmod stays tied to `config.updated`, so only the new URL has a new lastmod. Byline shows "Updated November 2026" because the template is month-only.
+
+Verified: validator OK (20 pages), desktop 1280 and true 390 px read, no horizontal overflow. Commit `b80be52` deployed through pages-build-deployment; 7 changed resources return 200 and match the commit byte for byte. IndexNow HTTP 200 for 5 URLs (received, not proof of indexing).
