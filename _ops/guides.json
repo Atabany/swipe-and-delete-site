@@ -259,7 +259,7 @@
       {
         "id": "future",
         "title": "Make future recordings easier to manage",
-        "html": "<p>Before recording a long event, decide what you actually need to capture and where the result will live. Afterward, review accidental starts, abandoned attempts and redundant takes while you remember them. A clear name or note about the event can also make future decisions easier. The habit matters more than making every recording as short as possible; some moments deserve the whole clip.</p><p>When checking the outcome, give device storage time to update and separate your review decisions from final removal. With iCloud Photos enabled, deletion synchronizes rather than preserving an untouched cloud original. Read the <a href=\"icloud-photo-deletion.html\">iCloud safety guide</a> before relying on a synced copy. The most useful result is enough room for your next task while the recordings you care about remain accessible. If short clips are the concern rather than long recordings, read <a href=\"live-photos-storage-iphone.html\">how Live Photos use storage</a>.</p>"
+        "html": "<p>Before recording a long event, decide what you actually need to capture and where the result will live. Afterward, review accidental starts, abandoned attempts and redundant takes while you remember them. A clear name or note about the event can also make future decisions easier. The habit matters more than making every recording as short as possible; some moments deserve the whole clip.</p><p>When checking the outcome, give device storage time to update and separate your review decisions from final removal. With iCloud Photos enabled, deletion synchronizes rather than preserving an untouched cloud original. Read the <a href=\"icloud-photo-deletion.html\">iCloud safety guide</a> before relying on a synced copy. The most useful result is enough room for your next task while the recordings you care about remain accessible.</p>"
       }
     ],
     "faqs": [
@@ -383,7 +383,7 @@
       {
         "id": "rules",
         "title": "Use clear keep and remove rules",
-        "html": "<p>Keep irreplaceable memories, useful documents and photographs with a distinct purpose. Remove accidental saves, obsolete references and frames you have compared carefully and do not want. Leave ambiguous choices for later. These are starting rules to adapt, not automatic judgments about every file. A photograph that looks ordinary to someone else may matter because of who is in it or when it was taken.</p><p>For a group of portraits, pick a favorite and then ask whether another frame adds a genuinely different expression. For screenshots, ask whether the underlying task is complete. For videos, check contents before choosing. Switching rules from one category to another is reasonable; switching them randomly within one session creates confusion. Use the <a href=\"similar-vs-duplicate-photos.html\">similar-photo checklist</a> when an apparent duplicate is actually a different moment. A batch of <a href=\"live-photos-storage-iphone.html\">old Live Photos</a> can make a good first group.</p>"
+        "html": "<p>Keep irreplaceable memories, useful documents and photographs with a distinct purpose. Remove accidental saves, obsolete references and frames you have compared carefully and do not want. Leave ambiguous choices for later. These are starting rules to adapt, not automatic judgments about every file. A photograph that looks ordinary to someone else may matter because of who is in it or when it was taken.</p><p>For a group of portraits, pick a favorite and then ask whether another frame adds a genuinely different expression. For screenshots, ask whether the underlying task is complete. For videos, check contents before choosing. Switching rules from one category to another is reasonable; switching them randomly within one session creates confusion. Use the <a href=\"similar-vs-duplicate-photos.html\">similar-photo checklist</a> when an apparent duplicate is actually a different moment.</p>"
       },
       {
         "id": "swipe",
@@ -467,7 +467,7 @@
       {
         "id": "measure",
         "title": "6. Check the result and choose the next category",
-        "html": "<p>After completing a deliberate cleanup, revisit the same iPhone Storage screen. Record what changed and whether Photos is still the main storage category. There is no universal refresh time or guaranteed amount of reclaimed space we can promise. A discrepancy is a reason to inspect the workflow and storage category, rather than repeat a destructive action.</p><p>If unwanted large videos remain, use the <a href=\"find-large-videos-iphone.html\">large-video review guide</a>. If the remaining clutter is mostly repeated images, use the <a href=\"delete-duplicate-photos-iphone.html\">duplicate-photo guide</a>. The <a href=\"cleanup-planner.html\">cleanup planner</a> can compare your own assumptions about categories, with its limitations stated beside the calculation. To test one category, try <a href=\"live-photos-storage-iphone.html\">a Live Photos review</a> and compare the same figure afterward.</p>"
+        "html": "<p>After completing a deliberate cleanup, revisit the same iPhone Storage screen. Record what changed and whether Photos is still the main storage category. There is no universal refresh time or guaranteed amount of reclaimed space we can promise. A discrepancy is a reason to inspect the workflow and storage category, rather than repeat a destructive action.</p><p>If unwanted large videos remain, use the <a href=\"find-large-videos-iphone.html\">large-video review guide</a>. If the remaining clutter is mostly repeated images, use the <a href=\"delete-duplicate-photos-iphone.html\">duplicate-photo guide</a>. The <a href=\"cleanup-planner.html\">cleanup planner</a> can compare your own assumptions about categories, with its limitations stated beside the calculation.</p>"
       },
       {
         "id": "support-details",
@@ -586,96 +586,84 @@
     ]
   },
   {
-    "slug": "live-photos-storage-iphone",
-    "title": "Live Photos Taking Up Space? Turn Off and Clean Up",
-    "description": "Why Live Photos use extra iPhone storage, how to stop new ones, what turning Live off really changes, and how to clear old ones you no longer need.",
-    "heading": "Are Live Photos taking up space on your iPhone?",
-    "intro": "Yes: a Live Photo keeps a short video and its audio alongside the still image, so it holds more data than the same shot without motion. To stop new ones, set Live to Off in Camera and turn on Preserve Settings; to reclaim space from old ones, delete those you no longer want and clear them from Recently Deleted.",
-    "updated": "2026-11-04",
-    "published": "2026-11-04",
+    "slug": "organize-iphone-photo-albums",
+    "title": "Organize iPhone Photos into Albums Without Extra Copies",
+    "description": "Organize existing iPhone photos into albums. Learn the difference between removing an album entry, deleting an album, and deleting a photo.",
+    "heading": "Organize iPhone photos into albums without extra copies",
+    "intro": "Use albums in Apple Photos to organize existing library items; you do not need to duplicate each picture first. Removing an item from an album and deleting the original are different actions, so choose the command that matches your goal.",
+    "published": "2026-11-19",
+    "updated": "2026-11-19",
     "sections": [
       {
-        "id": "how-much",
-        "title": "How much space does a Live Photo use?",
-        "html": "<p>Apple does not publish a fixed size, and the honest answer varies by camera, scene and format. What Apple does document is the structure: a Live Photo captures what happens just before and after the shutter, including sound, and its asset includes a separate video component. So treat any single “megabytes per Live Photo” figure you read online as an estimate, not a rule.</p><p>You can measure your own result instead. Open Settings, then General, then iPhone Storage, and note the figure for Photos before a session. Check it again after you have cleared Recently Deleted. The screen can take a little time to update, and with Optimize iPhone Storage turned on the local change may be smaller than you expect, because the phone may hold smaller versions of many items. Our <a href=\"deleted-photos-storage-still-full.html\">guide to storage that stays full</a> explains why.</p>"
+        "id": "start-with-an-album",
+        "title": "Start with one useful album",
+        "html": "<p>In the current Collections-based Photos layout, open Collections, then Albums, and use the add control to create a New Album. Give it a name, choose the pictures you want to include, and complete the creation screen. Earlier Photos layouts expose Albums differently; use the version selector in Apple's linked guide if your screen does not match. This guide covers ordinary personal albums, rather than Shared Albums or a Shared Photo Library.</p><p>Choose a purpose that helps you retrieve something later. “Kitchen renovation references” is easier to act on than “Things.” A family event, a project, or pictures to print can each make a useful first album. Start with a handful of familiar images so you can check what each command does before reorganizing years of photographs.</p>"
       },
       {
-        "id": "turn-off",
-        "title": "Stop new Live Photos in Camera",
-        "html": "<p>This changes future shots only. Existing Live Photos stay as they are.</p><ul><li><strong>iOS 27:</strong> In Photo mode, tap the Camera Controls button or swipe up from the mode list, tap Live, then choose Off.</li><li><strong>iOS 26:</strong> Open the same controls and tap Live until it reads Live Off.</li><li><strong>iOS 17 and 18:</strong> Tap the Live Photo button at the top of the camera screen so that a slash appears through it.</li></ul><p>To make the choice stick, go to Settings, Camera, Preserve Settings and check that Live Photo is on. Apple describes this setting as saving your last Live Photo choice, so it is not reset the next time you open Camera. It is on by default, but it is worth checking if Live keeps coming back. iOS 26 and 27 also offer an Auto option, which is not the same as Off. Live Photos are not available while ProRAW or HEIF Max is on.</p>"
+        "id": "add-existing-items",
+        "title": "Add existing pictures instead of making duplicates",
+        "html": "<p>Open an existing album and use its add-photo control to choose items already in the library. Depending on the Photos edition, this appears as an Add button in the album or an Add Photos action in its menu. Apple's version-specific instructions below describe both layouts. There is no need to use Duplicate as a preparation step.</p><p>Try a simple example: choose one photo for a trip album and also include it in a future printing selection. You are using albums to describe different purposes for that picture. Do not create a second editable copy just to put a picture in another collection. If you actually need a separately edited version, make that a deliberate editing decision and review it as a separate item later.</p>"
       },
       {
-        "id": "what-changes",
-        "title": "What each action actually changes",
-        "html": "<p>Several controls sound as though they would save space. Apple only documents what they do to the photo, so this table separates that from storage.</p><div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Action</th><th scope=\"col\">What happens</th><th scope=\"col\">Storage effect</th></tr></thead><tbody><tr><td>Set Live to Off in Camera</td><td>New shots are ordinary stills</td><td>Less added from now on; nothing freed today</td></tr><tr><td>Edit, tap Live, turn Live off</td><td>Shows a still of the key photo; Revert to Original can undo edits</td><td>No saving documented; do not count on one</td></tr><tr><td>Trim or mute in Edit</td><td>Changes what plays</td><td>No saving documented</td></tr><tr><td>More, then Save as Video</td><td>Makes a short video from the Live Photo</td><td>Adds a new video to your library</td></tr><tr><td>Delete the Live Photo</td><td>Moves the still and motion to Recently Deleted</td><td>Freed once it leaves Recently Deleted, by you or after 30 days</td></tr></tbody></table></div><p>The second row causes the most confusion. Turning Live off is reversible, which is useful, but a reversible edit is not evidence that the motion data has gone. If space is the goal, deletion is the only action here that Apple clearly ties to removing the item.</p>"
+        "id": "choose-the-right-command",
+        "title": "Choose the command that matches your intention",
+        "html": "<div class=\"table-wrap\"><table><caption>Different actions, different outcomes</caption><thead><tr><th>Your intention</th><th>Action to look for</th><th>What to check</th></tr></thead><tbody><tr><td>Take a picture out of one album</td><td>Remove from Album</td><td>It is still in your library</td></tr><tr><td>Discard an album's organization</td><td>Delete Album</td><td>Its pictures remain in the library</td></tr><tr><td>Remove the picture itself</td><td>Delete Photo or the deletion action</td><td>Library and iCloud consequences</td></tr></tbody></table></div><p>Pause at the confirmation wording. If your goal is merely to change organization, a message about deleting a photo from the library is a reason to stop and choose the album action instead. Test with one unimportant example, then verify the result in the library. A smaller album count is not evidence of recovered device storage.</p>"
       },
       {
-        "id": "find-old",
-        "title": "Find old Live Photos in Apple Photos",
-        "html": "<p>You do not need another app to see them. On iOS 26 and 27, tap Collections, scroll down, tap Media Types, then Live Photos. On iOS 18, scroll down in Photos and tap Media Types. On iOS 17, tap Albums and look under Media Types. Tap Select to choose several at once, then tap the Delete button. For a small batch of obvious rejects, this is all you need.</p><p>Deleted items go to Recently Deleted for 30 days. With iCloud Photos on, a deletion applies to your other devices signed in to the same Apple Account, so read the <a href=\"icloud-photo-deletion.html\">iCloud deletion guide</a> before a larger pass. Keep a separate backup of anything irreplaceable.</p>"
+        "id": "keep-organization-small",
+        "title": "Use a small structure you can maintain",
+        "html": "<p>Make the structure fit the way you search for memories. For a trip, one album for the event may be enough. For a long-running project, you might prefer a folder containing several related albums. Apple Photos supports folders for organizing albums; an elaborate folder system is optional.</p><p>Write a short rule for each recurring album. “Pictures I intend to print this month” has an obvious finish point. “All my favorite things” can grow without helping you make a decision. When an album stops being useful, review whether to rename it, simplify its selection, or remove the album organization. You do not have to discard the underlying memories to improve how you browse them.</p>"
       },
       {
-        "id": "worth-keeping",
-        "title": "Which Live Photos are worth keeping?",
-        "html": "<p>Play the photo before you decide, because the thumbnail hides the part you might care about. Touch and hold it to hear the sound and see the movement. A child’s first words, a pet’s reaction or a laugh just after the shutter can be the whole point. A receipt, a parking-level sign or a whiteboard gained nothing from its motion.</p><p>Repeated moments are the easiest place to start. If you took six Live Photos of the same view, keep the one you like and let the others go. The <a href=\"similar-vs-duplicate-photos.html\">similar versus duplicate guide</a> offers a way to compare them. If you like a photo but not its moment of motion, you can change its key photo in Edit, which picks the frame shown as the still.</p>"
+        "id": "sort-before-cleaning",
+        "title": "Sort and filter before deciding something is missing",
+        "html": "<p>Apple Photos lets you sort and filter the albums you create. A filter can limit which items are displayed, while sorting changes their order. If an expected photo seems absent, review the active filter and the library before assuming that the photo was deleted. The linked Apple sorting guide shows the controls for its selected iOS edition.</p><p>For an event album, decide whether chronological order or a small curated sequence serves you better. For a printing selection, compare similar frames at a useful size and look at expressions, focus, and framing. Organization is successful when it helps you find and assess pictures; it does not have to produce the smallest possible album or a perfectly symmetrical folder tree.</p>"
       },
       {
-        "id": "swipe-and-delete",
-        "title": "Review Live Photos one at a time in Swipe & Delete",
-        "html": "<p>Photo Cleaner: Swipe &amp; Delete gathers them into a single queue, which helps when a grid makes every shot look alike. On Home, go to Browse library, then All Categories, then Live Photos under Photo types. Cards play the motion, so you can judge the real moment. Swipe right to keep or left to mark for removal, and use Undo if you change your mind.</p><p>Nothing is deleted until you open the Trash Bin, select items and tap Delete. Recover takes an item back out of the Trash Bin. After you confirm in the iOS dialog, items move to Recently Deleted, where the 30-day rule above applies. Three limits are worth knowing. The app does not convert a Live Photo to a still: it keeps or removes the whole item. Its storage figures are estimates, so use iPhone Storage for the real result. And with Limited Access it can only see the photos you have shared with it, as our <a href=\"limited-photo-access-iphone.html\">Limited Access guide</a> explains. The free allowance is one-time; beyond it, Pro is optional and Apple Photos remains free.</p>"
+        "id": "separate-storage-cleanup",
+        "title": "Treat storage cleanup as a separate decision",
+        "html": "<p>If the real problem is device space, album organization alone is not a deletion workflow. First understand what is taking up storage, then review the files you no longer want. With iCloud Photos enabled, deleting a photo also affects other devices using the same synced library. Keep a separate copy of irreplaceable material before removing originals.</p><p>Photo Cleaner: Swipe &amp; Delete is intended for reviewing what to keep or mark for removal, with an in-app Trash review before confirmed deletion. Use Apple Photos when your task is simply arranging albums. If you need cleanup instead, our <a href=\"similar-vs-duplicate-photos.html\">similar-versus-duplicate guide</a> explains the comparison decision, and the <a href=\"cleanup-planner.html\">local cleanup planner</a> helps estimate which file group deserves attention. Neither an album name nor an estimate guarantees storage savings.</p>"
       },
       {
-        "id": "worked-plan",
-        "title": "A worked plan for a large collection",
-        "html": "<p>Suppose Media Types shows 1,200 Live Photos. That number is only an example, so use your own. At 50 decisions per session, the collection takes 24 sessions (1,200 ÷ 50). At three sessions a week, that is 8 weeks (24 ÷ 3). You may stop long before that, because repeated shots may be easy to decide on quickly.</p><ol><li>Turn Live off first if you do not want more of them.</li><li>Record the Photos figure from iPhone Storage.</li><li>Review one batch of 50, keeping anything you are unsure about.</li><li>Check your selections before confirming deletion.</li><li>Clear Recently Deleted only when you are sure, then compare the figure.</li></ol><p>If two or three sessions barely change the figure, Live Photos are not your main storage problem, and <a href=\"find-large-videos-iphone.html\">large videos</a> may be a better place to look.</p>"
+        "id": "check-your-work",
+        "title": "Finish with a quick verification",
+        "html": "<ol><li>Open the album and check the pictures you meant to include.</li><li>Find a familiar example again in the main library.</li><li>Read any removal confirmation before accepting it.</li><li>If you also deleted originals, check what you retained and keep the recovery window when possible.</li></ol><p>Apple normally keeps deleted photos in Recently Deleted for 30 days unless they are permanently removed earlier. If you changed only album organization, do not empty Recently Deleted as a finishing ritual. For questions about actual device space after a deletion, use our <a href=\"deleted-photos-storage-still-full.html\">storage-still-full troubleshooting guide</a> instead of repeating album changes.</p>"
       }
     ],
     "faqs": [
       {
-        "question": "Do Live Photos take up more storage than normal photos?",
-        "answer": "They hold more data for the same shot, because Apple stores a video component and audio alongside the still. Apple does not publish a fixed size, so measure the change in iPhone Storage."
+        "question": "Should I duplicate each photo before putting it in an album?",
+        "answer": "No. Add existing library items to an ordinary album. Use a separate copy only when you deliberately need a distinct version, such as a separately edited image."
       },
       {
-        "question": "Does turning off Live on an existing photo free up space?",
-        "answer": "Do not count on it. Apple documents that the photo becomes a still of its key photo, and edits can be reverted, but it does not document a storage saving. Deleting unwanted items is the clear route."
+        "question": "Will deleting an album delete its pictures?",
+        "answer": "Apple says the photos and videos remain in the library and in other albums they were added to. Deleting the photo itself is a different action."
       },
       {
-        "question": "How do I keep Live Photos off permanently?",
-        "answer": "Set Live to Off in Camera, then go to Settings, Camera, Preserve Settings and make sure Live Photo is on. That saves your last choice instead of resetting it."
+        "question": "Will removing pictures from an album free iPhone storage?",
+        "answer": "Removing album entries does not remove the originals from your library. Review the actual files and iPhone storage when your goal is reclaiming device space."
       },
       {
-        "question": "Can Swipe & Delete turn Live Photos into still photos?",
-        "answer": "No. It helps you review them and keep or remove each whole item. To make a still of a photo you keep, use the Live control in the Edit screen of Apple Photos."
+        "question": "Why can I not find a picture inside an album?",
+        "answer": "Check the album selection, active filters and the main library before assuming it was deleted. In a third-party app, also check which Photos access you granted."
       }
     ],
     "sources": [
       {
-        "title": "Apple: take Live Photos and turn them off",
-        "url": "https://support.apple.com/guide/iphone/take-live-photos-iph17471d6de/ios"
+        "title": "Apple: create albums and organize them in folders",
+        "url": "https://support.apple.com/en-gb/guide/iphone/iphc0fc668ab/26/ios/26"
       },
       {
-        "title": "Apple: edit Live Photos",
-        "url": "https://support.apple.com/guide/iphone/edit-live-photos-iphd8dbb3291/ios"
+        "title": "Apple: add and remove photos from albums",
+        "url": "https://support.apple.com/en-kw/guide/iphone/iphee7aff030/ios"
       },
       {
-        "title": "Apple: save camera settings (Preserve Settings)",
-        "url": "https://support.apple.com/guide/iphone/save-camera-settings-iph62000de98/ios"
+        "title": "Apple: sort and filter an album",
+        "url": "https://support.apple.com/en-gb/guide/iphone/iph9463b0c24/26/ios/26"
       },
       {
-        "title": "Apple: undo and revert photo edits",
-        "url": "https://support.apple.com/guide/iphone/undo-and-revert-photo-edits-iph2413db0ab/ios"
-      },
-      {
-        "title": "Apple: locate photos and videos by media type",
-        "url": "https://support.apple.com/guide/iphone/locate-photos-and-videos-by-media-type-iph8530ff6a2/ios"
-      },
-      {
-        "title": "Apple: delete or hide photos and videos",
-        "url": "https://support.apple.com/guide/iphone/delete-or-hide-photos-and-videos-iphb4defbde9/ios"
-      },
-      {
-        "title": "Apple Developer: the video component of a Live Photo",
-        "url": "https://developer.apple.com/documentation/photos/phassetresourcetype/pairedvideo"
+        "title": "Apple: delete and recover photos",
+        "url": "https://support.apple.com/en-us/104967"
       }
     ]
   }
