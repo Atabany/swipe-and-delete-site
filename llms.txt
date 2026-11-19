@@ -21,6 +21,7 @@ Canonical App Store listing: https://apps.apple.com/app/id6754815949
 - [A Simple Swipe Cleanup Plan for Your Camera Roll](https://swipeanddelete.app/swipe-photo-cleanup.html)
 - [Deleted Photos but iPhone Storage Is Still Full?](https://swipeanddelete.app/deleted-photos-storage-still-full.html)
 - [Limited Photo Access on iPhone: Cleanup Guide](https://swipeanddelete.app/limited-photo-access-iphone.html)
+- [Live Photos Taking Up Space? Turn Off and Clean Up](https://swipeanddelete.app/live-photos-storage-iphone.html)
 - [Organize iPhone Photos into Albums Without Extra Copies](https://swipeanddelete.app/organize-iphone-photo-albums.html)
 - [iPhone Photo Cleanup Guides](https://swipeanddelete.app/guides.html)
 - [Which iPhone Photo Cleaner Fits Your Cleanup?](https://swipeanddelete.app/best-photo-cleaner-apps.html)
